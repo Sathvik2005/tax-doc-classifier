@@ -1,0 +1,3890 @@
+{
+ "form-1040": {
+  "id": "form-1040",
+  "label": "Form 1040",
+  "title": "U.S. Individual Income Tax Return \u2014 Form IRS Use Only\u2014Do not write or staple in ",
+  "pageCount": 2,
+  "source": "mef",
+  "notFor": [
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-nr": {
+  "id": "form-1040-nr",
+  "label": "Form 1040-NR",
+  "title": "Form -NR U.S. Nonresident Alien Income Tax Return \u2014 IRS Use Only\u2014Do not write or",
+  "pageCount": 2,
+  "source": "mef",
+  "notFor": [
+   "Form 1040",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-nr-schedule-a": {
+  "id": "form-1040-nr-schedule-a",
+  "label": "Schedule A (Form 1040-NR)",
+  "title": "SCHEDULE A Itemized Deductions (Form -NR) for instructions and the latest inform",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-1040-nr",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-nr-schedule-nec": {
+  "id": "form-1040-nr-schedule-nec",
+  "label": "Schedule NEC (Form 1040-NR)",
+  "title": "SCHEDULE NEC Tax on Income Not Effectively Connected With a U.S. Trade or Busine",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-1040-nr",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-nr-schedule-oi": {
+  "id": "form-1040-nr-schedule-oi",
+  "label": "Schedule OI (Form 1040-NR)",
+  "title": "SCHEDULE OI Other Information (Form -NR) for instructions and the latest informa",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-1040-nr",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-nr-schedule-p": {
+  "id": "form-1040-nr-schedule-p",
+  "label": "Schedule P (Form 1040-NR)",
+  "title": "SCHEDULE P Foreign Partner\u2019s Interests in Certain Partnerships Transferred Durin",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040-nr",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-1": {
+  "id": "form-1040-schedule-1",
+  "label": "Schedule 1 (Form 1040)",
+  "title": "SCHEDULE 1 Additional Income and Adjustments to Income (Form ) Attachment for in",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-1-a": {
+  "id": "form-1040-schedule-1-a",
+  "label": "Schedule 1-A (Form 1040)",
+  "title": "SCHEDULE 1-A Additional Deductions (Form ) Attachment for instructions and the l",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-2": {
+  "id": "form-1040-schedule-2",
+  "label": "Schedule 2 (Form 1040)",
+  "title": "SCHEDULE 2 Additional Taxes (Form ) Attachment for instructions and the latest i",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-3": {
+  "id": "form-1040-schedule-3",
+  "label": "Schedule 3 (Form 1040)",
+  "title": "SCHEDULE 3 Additional Credits and Payments (Form ) Attachment for instructions a",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-8812": {
+  "id": "form-1040-schedule-8812",
+  "label": "Schedule 8812 (Form 1040)",
+  "title": "SCHEDULE Credits for Qualifying Children (Form ) and Other Dependents Attachment",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-a": {
+  "id": "form-1040-schedule-a",
+  "label": "Schedule A (Form 1040)",
+  "title": "SCHEDULE A Itemized Deductions (Form ) for instructions and the latest informati",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-b": {
+  "id": "form-1040-schedule-b",
+  "label": "Schedule B (Form 1040)",
+  "title": "SCHEDULE B (Form ) Interest and Ordinary Dividends Attachment for instructions a",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-c": {
+  "id": "form-1040-schedule-c",
+  "label": "Schedule C (Form 1040)",
+  "title": "SCHEDULE C Profit or Loss From Business (Form ) (Sole Proprietorship) Attachment",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-d": {
+  "id": "form-1040-schedule-d",
+  "label": "Schedule D (Form 1040)",
+  "title": "SCHEDULE D Capital Gains and Losses (Form ) Use Form to list your transactions f",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-e": {
+  "id": "form-1040-schedule-e",
+  "label": "Schedule E (Form 1040)",
+  "title": "SCHEDULE E Supplemental Income and Loss (Form ) (From rental real estate, royalt",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-eic": {
+  "id": "form-1040-schedule-eic",
+  "label": "Schedule EIC (Form 1040)",
+  "title": "SCHEDULE EIC Earned Income Credit (Form ) Qualifying Child Information Complete ",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-f": {
+  "id": "form-1040-schedule-f",
+  "label": "Schedule F (Form 1040)",
+  "title": "SCHEDULE F Profit or Loss From Farming (Form ) Attachment for instructions and t",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-h": {
+  "id": "form-1040-schedule-h",
+  "label": "Schedule H (Form 1040)",
+  "title": "SCHEDULE H Household Employment Taxes (Form ) (For Social Security, Medicare, Wi",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-j": {
+  "id": "form-1040-schedule-j",
+  "label": "Schedule J (Form 1040)",
+  "title": "SCHEDULE J Income Averaging for Individuals With Income From (Form ) Farming or ",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-lep": {
+  "id": "form-1040-schedule-lep",
+  "label": "Schedule LEP (Form 1040)",
+  "title": "SCHEDULE L Standard Deduction for Certain Filers (Form A or ) See instructions o",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-r": {
+  "id": "form-1040-schedule-r",
+  "label": "Schedule R (Form 1040)",
+  "title": "SCHEDULE R (Form ) Credit for the Elderly or the Disabled for instructions and t",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-schedule-se": {
+  "id": "form-1040-schedule-se",
+  "label": "Schedule SE (Form 1040)",
+  "title": "SCHEDULE SE (Form ) Self-Employment Tax Attachment for instructions and the late",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1040",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Form 1040-SS",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-ss": {
+  "id": "form-1040-ss",
+  "label": "Form 1040-SS",
+  "title": "Form -SS (Including the Additional U.S. Self-Employment Tax Return Child Tax Cre",
+  "pageCount": 3,
+  "source": "mef",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-X"
+  ]
+ },
+ "form-1040-x": {
+  "id": "form-1040-x",
+  "label": "Form 1040-X",
+  "title": "-X \u2014 Form Amended U.S. Individual Income Tax Return (Rev. December ) for instruc",
+  "pageCount": 2,
+  "source": "mef",
+  "notFor": [
+   "Form 1040",
+   "Form 1040-NR",
+   "Schedule A (Form 1040-NR)",
+   "Schedule NEC (Form 1040-NR)",
+   "Schedule OI (Form 1040-NR)",
+   "Schedule P (Form 1040-NR)",
+   "Schedule 1 (Form 1040)",
+   "Schedule 1-A (Form 1040)",
+   "Schedule 2 (Form 1040)",
+   "Schedule 3 (Form 1040)",
+   "Schedule 8812 (Form 1040)",
+   "Schedule A (Form 1040)",
+   "Schedule B (Form 1040)",
+   "Schedule C (Form 1040)",
+   "Schedule D (Form 1040)",
+   "Schedule E (Form 1040)",
+   "Schedule EIC (Form 1040)",
+   "Schedule F (Form 1040)",
+   "Schedule H (Form 1040)",
+   "Schedule J (Form 1040)",
+   "Schedule LEP (Form 1040)",
+   "Schedule R (Form 1040)",
+   "Schedule SE (Form 1040)",
+   "Form 1040-SS"
+  ]
+ },
+ "form-1041-schedule-k-1": {
+  "id": "form-1041-schedule-k-1",
+  "label": "Schedule K-1 (Form 1041)",
+  "title": "7 Final K-1 Amended K-1 Schedule K-1 (Form ) Part III Beneficiary\u2019s Share of Cur",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1041"
+ },
+ "form-1042-s": {
+  "id": "form-1042-s",
+  "label": "Form 1042-S",
+  "title": "Form -S Foreign Person\u2019s U.S. Source Income Subject to Withholding for instructi",
+  "pageCount": 7,
+  "source": "info",
+  "boxes": [
+   "1 Income 2 Gross income 3 Chapter indicator. Enter \u201c3\u201d or \u201c4",
+   "13i Recipient\u2019s U.S. TIN, if any",
+   "13j Ch. 3 status code",
+   "3a Exemption code",
+   "4a Exemption code",
+   "13k Ch. 4 status code",
+   "3b Tax rate",
+   "4b Tax rate"
+  ]
+ },
+ "form-1065-schedule-d": {
+  "id": "form-1065-schedule-d",
+  "label": "Schedule D (Form 1065)",
+  "title": "SCHEDULE D (Form ) Capital Gains and Losses Use Form to list your transactions f",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-1065",
+  "notFor": [
+   "Schedule K-1 (Form 1065)"
+  ]
+ },
+ "form-1065-schedule-k-1": {
+  "id": "form-1065-schedule-k-1",
+  "label": "Schedule K-1 (Form 1065)",
+  "title": "3 Final K-1 Amended K-1 Schedule K-1 (Form ) Part III Partner\u2019s Share of Current",
+  "pageCount": 1,
+  "source": "info",
+  "parent": "form-1065",
+  "notFor": [
+   "Schedule D (Form 1065)"
+  ]
+ },
+ "form-1095-a": {
+  "id": "form-1095-a",
+  "label": "Form 1095-A",
+  "title": "CAUTION: NOT FOR FILING Form -A is provided here for informational purposes only",
+  "pageCount": 3,
+  "source": "info",
+  "boxes": [
+   "1 Marketplace identifier",
+   "2 Marketplace-assigned policy number",
+   "3 Policy issuer\u2019s name",
+   "4 Recipient\u2019s name",
+   "5 Recipient\u2019s SSN",
+   "6 Recipient\u2019s date of birth",
+   "7 Recipient\u2019s spouse\u2019s name",
+   "8 Recipient\u2019s spouse\u2019s SSN"
+  ],
+  "notFor": [
+   "Form 1095-B",
+   "Form 1095-C"
+  ]
+ },
+ "form-1095-b": {
+  "id": "form-1095-b",
+  "label": "Form 1095-B",
+  "title": "8 Form -B Health Coverage Do not attach to your tax return. Keep for your record",
+  "pageCount": 3,
+  "source": "info",
+  "boxes": [
+   "1 Name of responsible individual\u2013First name, middle name, la",
+   "2 Social security number (SSN) or other TIN",
+   "3 Date of birth (if SSN or other TIN is not available)",
+   "4 Street address (including apartment no.)",
+   "5 City or town",
+   "6 State or province",
+   "7 Country and ZIP or foreign postal code",
+   "9 Reserved"
+  ],
+  "notFor": [
+   "Form 1095-A",
+   "Form 1095-C"
+  ]
+ },
+ "form-1095-c": {
+  "id": "form-1095-c",
+  "label": "Form 1095-C",
+  "title": "0 Form -C Employer-Provided Health Insurance Offer and Coverage Do not attach to",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 Name of employee (first name, middle initial, last name)",
+   "2 Social security number (SSN)",
+   "7 Name of employer",
+   "8 Employer identification number (EIN)",
+   "3 Street address (including apartment no.)",
+   "9 Street address (including room or suite no.)",
+   "10 Contact telephone number",
+   "4 City or town"
+  ],
+  "notFor": [
+   "Form 1095-A",
+   "Form 1095-B"
+  ]
+ },
+ "form-1097-btc": {
+  "id": "form-1097-btc",
+  "label": "Form 1097-BTC",
+  "title": "FORM -BTC ISSUER\u2019S name, street address, city or town, state or 1 Total province",
+  "pageCount": 3,
+  "source": "info",
+  "boxes": [
+   "2b Unique identifier",
+   "3 Bond type",
+   "5a January",
+   "5b February",
+   "5h August",
+   "5i September",
+   "5j October",
+   "5k November"
+  ]
+ },
+ "form-1098": {
+  "id": "form-1098",
+  "label": "Form 1098",
+  "title": "Mortgage Interest Statement \u2014 RECIPIENT'S/LENDER'S name, PAYER'S/BORROWER'S name",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 Mortgage interest received from payer(s)/borrower(s)",
+   "2 Outstanding mortgage",
+   "3 Mortgage origination date",
+   "4 Refund of overpaid",
+   "5 Mortgage insurance",
+   "6 Points paid on purchase of principal residence",
+   "8 Address or description of property securing mortgage (see",
+   "9 Number of properties securing the"
+  ],
+  "notFor": [
+   "Form 1098-C",
+   "Form 1098-E",
+   "Form 1098-F",
+   "Form 1098-Q",
+   "Form 1098-T"
+  ]
+ },
+ "form-1098-c": {
+  "id": "form-1098-c",
+  "label": "Form 1098-C",
+  "title": "DONEE\u2019S name, street address, city or town, state or province, country, ZIP or f",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 Date of contribution",
+   "2a Odometer mileage",
+   "3 Vehicle or other identification number",
+   "4b Date of sale",
+   "4c Gross proceeds from sale (see instructions)",
+   "6a Did you provide goods or services in exchange for the veh",
+   "6b Value of goods and services provided in exchange for the "
+  ],
+  "notFor": [
+   "Form 1098",
+   "Form 1098-E",
+   "Form 1098-F",
+   "Form 1098-Q",
+   "Form 1098-T"
+  ]
+ },
+ "form-1098-e": {
+  "id": "form-1098-e",
+  "label": "Form 1098-E",
+  "title": "Student Loan Interest Statement \u2014 RECIPIENT'S/LENDER'S name, BORROWER'S name",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 Student loan interest received by lender",
+   "2 Check if box 1 does not include loan origination fees"
+  ],
+  "notFor": [
+   "Form 1098",
+   "Form 1098-C",
+   "Form 1098-F",
+   "Form 1098-Q",
+   "Form 1098-T"
+  ]
+ },
+ "form-1098-f": {
+  "id": "form-1098-f",
+  "label": "Form 1098-F",
+  "title": "FILER\u2019S name, street address, city or town, state or province, country, ZIP 1 To",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 Total amount required to be paid OMB No. 1545-2284",
+   "2 Amount to be paid for",
+   "3 Restitution/remediation",
+   "5 Date of order/agreement",
+   "4 Compliance amount",
+   "6 Court or entity",
+   "7 Case number",
+   "8 Case name or names of parties to suit, order, or agreement"
+  ],
+  "notFor": [
+   "Form 1098",
+   "Form 1098-C",
+   "Form 1098-E",
+   "Form 1098-Q",
+   "Form 1098-T"
+  ]
+ },
+ "form-1098-q": {
+  "id": "form-1098-q",
+  "label": "Form 1098-Q",
+  "title": "ISSUER\u2019S name, street address, city or town, state or province, country, ZIP ISS",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1a Annuity amount on start date  For calendar year  Informat",
+   "1b Annuity start date",
+   "2 Check if start date may be",
+   "3 Total premiums",
+   "4 FMV of QLAC",
+   "5a January",
+   "5b February",
+   "5h August"
+  ],
+  "notFor": [
+   "Form 1098",
+   "Form 1098-C",
+   "Form 1098-E",
+   "Form 1098-F",
+   "Form 1098-T"
+  ]
+ },
+ "form-1098-t": {
+  "id": "form-1098-t",
+  "label": "Form 1098-T",
+  "title": "FILER\u2019S name 1 Payments received for qualified tuition and related expenses Stre",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 Payments received for",
+   "4 Adjustments made for a",
+   "5 Scholarships or grants",
+   "6 Adjustments to",
+   "7 Checked if the amount",
+   "8 Checked if at least",
+   "9 Checked if a graduate",
+   "10 Ins. contract reimb./refund"
+  ],
+  "notFor": [
+   "Form 1098",
+   "Form 1098-C",
+   "Form 1098-E",
+   "Form 1098-F",
+   "Form 1098-Q"
+  ]
+ },
+ "form-1099-a": {
+  "id": "form-1099-a",
+  "label": "Form 1099-A",
+  "title": "LENDER\u2019S name, street address, city or town, state or province, country, ZIP or ",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 Date of lender\u2019s acquisition or 2 Balance of principal",
+   "4 Fair market value of property",
+   "5 Check if the borrower was personally liable for repayment ",
+   "6 Description of property"
+  ],
+  "notFor": [
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-b": {
+  "id": "form-1099-b",
+  "label": "Form 1099-B",
+  "title": "PAYER\u2019S name, street address, city or town, state or province, country, ZIP Appl",
+  "pageCount": 7,
+  "source": "info",
+  "boxes": [
+   "1a Description of property (Example: 100 sh. XYZ Co.)",
+   "1b Date acquired",
+   "1c Date sold or disposed",
+   "1d Proceeds",
+   "1e Cost or other basis",
+   "1f Accrued market discount",
+   "1g Wash sale loss disallowed",
+   "2 Short-term gain or loss"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-c": {
+  "id": "form-1099-c",
+  "label": "Form 1099-C",
+  "title": "CREDITOR\u2019S name, street address, city or town, state or province, country, 1 Dat",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 Date of identifiable event",
+   "2 Amount of debt discharged",
+   "3 Interest, if included in box 2",
+   "4 Debt description",
+   "5 Check here if the debtor was personally liable for",
+   "6 Identifiable event code",
+   "7 Fair market value of property"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-cap": {
+  "id": "form-1099-cap",
+  "label": "Form 1099-CAP",
+  "title": "CORPORATION\u2019S name, street address, city or town, state or province, 1 Date of s",
+  "pageCount": 3,
+  "source": "info",
+  "boxes": [
+   "1 Date of sale or exchange",
+   "2 Aggregate amount rec\u2019d*",
+   "3 No. of shares exchanged",
+   "4 Classes of stock exchanged"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-da": {
+  "id": "form-1099-da",
+  "label": "Form 1099-DA",
+  "title": "7A7A FILER\u2019S name Applicable checkbox on Form Digital Asset Proceeds From Broker",
+  "pageCount": 6,
+  "source": "info",
+  "boxes": [
+   "1a Code for digital asset",
+   "1b Name of digital asset",
+   "1c Number of units",
+   "1d Date acquired",
+   "1e Date sold or disposed",
+   "1f Proceeds",
+   "1g Cost or other basis",
+   "1h Accrued market discount"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-div": {
+  "id": "form-1099-div",
+  "label": "Form 1099-DIV",
+  "title": "PAYER\u2019S name, street address, city or town, state or province, country, ZIP 1a T",
+  "pageCount": 6,
+  "source": "info",
+  "boxes": [
+   "1a Total ordinary dividends",
+   "1b Qualified dividends",
+   "2a Total capital gain distr.",
+   "2b Unrecap. Sec. 1250 gain",
+   "2c Section 1202 gain",
+   "2d Collectibles (28%) gain",
+   "2e Section 897 ordinary dividends",
+   "2f Section 897 capital gain"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-g": {
+  "id": "form-1099-g",
+  "label": "Form 1099-G",
+  "title": "PAYER\u2019S name 1 Unemployment compensation Form -G Certain Street address Room/sui",
+  "pageCount": 6,
+  "source": "info",
+  "boxes": [
+   "1 Unemployment compensation",
+   "2 State or local income tax",
+   "3 Box 2 amount is for tax year",
+   "4 Federal income tax withheld",
+   "5 RTAA payments",
+   "6 Taxable grants",
+   "7 Agriculture payments",
+   "8 Check if box 2 is"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-h": {
+  "id": "form-1099-h",
+  "label": "Form 1099-H",
+  "title": "ISSUER\u2019S/PROVIDER\u2019S name, street address, city or town, state or 1 Amount of HCT",
+  "pageCount": 3,
+  "source": "info",
+  "boxes": [
+   "1 Amount of HCTC advance payments OMB No. 1545-1813",
+   "2 No. of mos. HCTC"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-int": {
+  "id": "form-1099-int",
+  "label": "Form 1099-INT",
+  "title": "PAYER\u2019S name, street address, city or town, state or province, country, ZIP Paye",
+  "pageCount": 7,
+  "source": "info",
+  "boxes": [
+   "1 Interest income",
+   "2 Early withdrawal penalty",
+   "3 Interest on U.S. Savings Bonds and Treasury obligations",
+   "4 Federal income tax withheld 5 Investment expenses",
+   "6 Foreign tax paid",
+   "7 Foreign country or U.S. territory",
+   "8 Tax-exempt interest",
+   "9 Specified private activity bond"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-k": {
+  "id": "form-1099-k",
+  "label": "Form 1099-K",
+  "title": "FILER\u2019S name 1a Gross amount of payment card/third party network Payment Card an",
+  "pageCount": 6,
+  "source": "info",
+  "boxes": [
+   "1a Gross amount of payment",
+   "1b Card Not Present",
+   "1c Cash tips",
+   "2 Merchant category code",
+   "3 Number of payment",
+   "4 Federal income tax withheld",
+   "5a January",
+   "5b February"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-ls": {
+  "id": "form-1099-ls",
+  "label": "Form 1099-LS",
+  "title": "ACQUIRER\u2019S name, street address, city or town, state or province, country, 1 Amo",
+  "pageCount": 6,
+  "source": "info",
+  "boxes": [
+   "1 Amount paid to payment",
+   "2 Date of sale"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-ltc": {
+  "id": "form-1099-ltc",
+  "label": "Form 1099-LTC",
+  "title": "PAYER\u2019S name, street address, city or town, state or province, country, ZIP 1 Gr",
+  "pageCount": 5,
+  "source": "info",
+  "boxes": [
+   "1 Gross long-term care",
+   "2 Accelerated death benefits",
+   "3 Check one:",
+   "4 Qualified contract",
+   "5 Check, if applicable"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-misc": {
+  "id": "form-1099-misc",
+  "label": "Form 1099-MISC",
+  "title": "PAYER\u2019S name 1 Rents Form -MISC Miscellaneous $ Street address Room or suite no.",
+  "pageCount": 6,
+  "source": "info",
+  "boxes": [
+   "2 Royalties",
+   "3 Other income",
+   "4 Federal income tax",
+   "5 Fishing boat proceeds",
+   "6 Medical and health care",
+   "7 Payer made direct sales",
+   "8 Substitute payments in",
+   "9 Crop insurance proceeds"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-nec": {
+  "id": "form-1099-nec",
+  "label": "Form 1099-NEC",
+  "title": "PAYER\u2019S name Form -NEC Nonemployee Street address Room or suite no. (Rev. Decemb",
+  "pageCount": 6,
+  "source": "info",
+  "boxes": [
+   "1a Nonemployee compensation",
+   "1b Cash tips",
+   "1d Overtime compensation",
+   "2 Payer made direct sales totaling $5,000 or more of",
+   "3 Excess golden parachute payments",
+   "4 Federal income tax withheld",
+   "5 State tax withheld",
+   "6 State/Payer\u2019s state no."
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-oid": {
+  "id": "form-1099-oid",
+  "label": "Form 1099-OID",
+  "title": "PAYER\u2019S name, street address, city or town, state or province, country, 1 Origin",
+  "pageCount": 7,
+  "source": "info",
+  "boxes": [
+   "1 Original issue discount for",
+   "2 Other periodic interest",
+   "3 Early withdrawal penalty",
+   "4 Federal income tax withheld",
+   "5 Market discount",
+   "6 Acquisition premium",
+   "7 Description",
+   "8 Original issue discount on"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-patr": {
+  "id": "form-1099-patr",
+  "label": "Form 1099-PATR",
+  "title": "PAYER\u2019S name, street address, city or town, state or province, country, 1 Patron",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 Patronage dividends",
+   "2 Nonpatronage distributions Form 1099-PATR",
+   "3 Per-unit retain allocations",
+   "4 Federal income tax withheld",
+   "5 Redeemed nonqualified notices",
+   "6 Section 199A(g) deduction",
+   "7 Qualified payments",
+   "8 Section 199A(a) qual. items"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-q": {
+  "id": "form-1099-q",
+  "label": "Form 1099-Q",
+  "title": "PAYER\u2019S/TRUSTEE\u2019S name, street address, city or town, state or province, 1 Gross",
+  "pageCount": 3,
+  "source": "info",
+  "boxes": [
+   "1 Gross distribution",
+   "2 Earnings",
+   "4 Type of transfer:",
+   "5 Distribution is from:",
+   "6 Check if the recipient is",
+   "7 If the fair market value (FMV) is shown below, see Pub. 97"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-r": {
+  "id": "form-1099-r",
+  "label": "Form 1099-R",
+  "title": "PAYER\u2019S name 1 Gross distribution Distributions From Pensions, Annuities, Retire",
+  "pageCount": 9,
+  "source": "mef",
+  "boxes": [
+   "1 Gross distribution",
+   "2a Taxable amount",
+   "2b Taxable amount not",
+   "3 Capital gain (included in",
+   "5 Employee contrib./",
+   "7b IRA/SEP/",
+   "7d Earnings on",
+   "8b Percentage of annuity"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-S",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-s": {
+  "id": "form-1099-s",
+  "label": "Form 1099-S",
+  "title": "FILER\u2019S name 1 Date of closing Form -S Proceeds From Real Street address Room or",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 Date of closing",
+   "2a Total gross proceeds",
+   "2b Cash gross proceeds",
+   "2c Digital asset gross",
+   "3 Address (including city, state, and ZIP code) or legal",
+   "4 Buyer\u2019s part of real estate tax",
+   "8a Code for digital asset received, or to be received, as co",
+   "8b Name of digital asset received, or to be received, as con"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-SA",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-sa": {
+  "id": "form-1099-sa",
+  "label": "Form 1099-SA",
+  "title": "TRUSTEE\u2019S/PAYER\u2019S name, street address, city or town, state or province, country",
+  "pageCount": 3,
+  "source": "info",
+  "boxes": [
+   "1 Gross distribution",
+   "2 Earnings on excess cont.",
+   "3 Distribution code",
+   "4 FMV on date of death"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SB"
+  ]
+ },
+ "form-1099-sb": {
+  "id": "form-1099-sb",
+  "label": "Form 1099-SB",
+  "title": "ISSUER\u2019S name, street address, city or town, state or province, country, 1 Inves",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 Investment in contract",
+   "2 Surrender amount"
+  ],
+  "notFor": [
+   "Form 1099-A",
+   "Form 1099-B",
+   "Form 1099-C",
+   "Form 1099-CAP",
+   "Form 1099-DA",
+   "Form 1099-DIV",
+   "Form 1099-G",
+   "Form 1099-H",
+   "Form 1099-INT",
+   "Form 1099-K",
+   "Form 1099-LS",
+   "Form 1099-LTC",
+   "Form 1099-MISC",
+   "Form 1099-NEC",
+   "Form 1099-OID",
+   "Form 1099-PATR",
+   "Form 1099-Q",
+   "Form 1099-R",
+   "Form 1099-S",
+   "Form 1099-SA"
+  ]
+ },
+ "form-1116": {
+  "id": "form-1116",
+  "label": "Form 1116",
+  "title": "Foreign Tax Credit Form (Individual, Estate, or Trust) Attachment for instructio",
+  "pageCount": 2,
+  "source": "mef",
+  "notFor": [
+   "Schedule B (Form 1116)",
+   "Schedule C (Form 1116)"
+  ]
+ },
+ "form-1116-schedule-b": {
+  "id": "form-1116-schedule-b",
+  "label": "Schedule B (Form 1116)",
+  "title": "SCHEDULE B Foreign Tax Carryover Reconciliation Schedule (Form ) For calendar ye",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1116",
+  "notFor": [
+   "Form 1116",
+   "Schedule C (Form 1116)"
+  ]
+ },
+ "form-1116-schedule-c": {
+  "id": "form-1116-schedule-c",
+  "label": "Schedule C (Form 1116)",
+  "title": "SCHEDULE C Foreign Tax Redeterminations (Form ) For calendar year 20 , or other ",
+  "pageCount": 3,
+  "source": "mef",
+  "parent": "form-1116",
+  "notFor": [
+   "Form 1116",
+   "Schedule B (Form 1116)"
+  ]
+ },
+ "form-1118": {
+  "id": "form-1118",
+  "label": "Form 1118",
+  "title": "Form (Rev. December ) Foreign Tax Credit\u2014Corporations for instructions and the l",
+  "pageCount": 12,
+  "source": "mef",
+  "notFor": [
+   "Schedule I (Form 1118)",
+   "Schedule J (Form 1118)",
+   "Schedule K (Form 1118)",
+   "Schedule L (Form 1118)"
+  ]
+ },
+ "form-1118-schedule-i": {
+  "id": "form-1118-schedule-i",
+  "label": "Schedule I (Form 1118)",
+  "title": "SCHEDULE I Reduction of Foreign Oil and Gas Taxes (Form ) (Rev. December ) for t",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1118",
+  "notFor": [
+   "Form 1118",
+   "Schedule J (Form 1118)",
+   "Schedule K (Form 1118)",
+   "Schedule L (Form 1118)"
+  ]
+ },
+ "form-1118-schedule-j": {
+  "id": "form-1118-schedule-j",
+  "label": "Schedule J (Form 1118)",
+  "title": "Schedule J Adjustments to Separate Limitation Income (Loss) Categories for (Form",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1118",
+  "notFor": [
+   "Form 1118",
+   "Schedule I (Form 1118)",
+   "Schedule K (Form 1118)",
+   "Schedule L (Form 1118)"
+  ]
+ },
+ "form-1118-schedule-k": {
+  "id": "form-1118-schedule-k",
+  "label": "Schedule K (Form 1118)",
+  "title": "SCHEDULE K Foreign Tax Carryover Reconciliation Schedule (Form ) For calendar ye",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-1118",
+  "notFor": [
+   "Form 1118",
+   "Schedule I (Form 1118)",
+   "Schedule J (Form 1118)",
+   "Schedule L (Form 1118)"
+  ]
+ },
+ "form-1118-schedule-l": {
+  "id": "form-1118-schedule-l",
+  "label": "Schedule L (Form 1118)",
+  "title": "SCHEDULE L Foreign Tax Redeterminations (Form ) For calendar year 20 , or other ",
+  "pageCount": 4,
+  "source": "mef",
+  "parent": "form-1118",
+  "notFor": [
+   "Form 1118",
+   "Schedule I (Form 1118)",
+   "Schedule J (Form 1118)",
+   "Schedule K (Form 1118)"
+  ]
+ },
+ "form-1120-s-schedule-k-1": {
+  "id": "form-1120-s-schedule-k-1",
+  "label": "Schedule K-1 (Form 1120-S)",
+  "title": "4 Final K-1 Amended K-1 Schedule K-1 (Form -S) Part III Shareholder\u2019s Share of C",
+  "pageCount": 1,
+  "source": "info",
+  "parent": "form-1120-s"
+ },
+ "form-1310": {
+  "id": "form-1310",
+  "label": "Form 1310",
+  "title": "Form (Rev. December ) Statement of Person Claiming Refund Due a Deceased Taxpaye",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-172": {
+  "id": "form-172",
+  "label": "Form 172",
+  "title": "Form 172 (December ) Net Operating Losses (NOLs) For Individuals, Estates, and T",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-2106": {
+  "id": "form-2106",
+  "label": "Form 2106",
+  "title": "Form Employee Business Expenses (for use only by Armed Forces reservists, qualif",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-2120": {
+  "id": "form-2120",
+  "label": "Form 2120",
+  "title": "Form (Rev. December ) Multiple Support Declaration Attachment for the latest inf",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-2210": {
+  "id": "form-2210",
+  "label": "Form 2210",
+  "title": "Form Underpayment of Estimated Tax by Individuals, Estates, and Trusts Attachmen",
+  "pageCount": 3,
+  "source": "mef",
+  "notFor": [
+   "Form 2210-F"
+  ]
+ },
+ "form-2210-f": {
+  "id": "form-2210-f",
+  "label": "Form 2210-F",
+  "title": "Form -F Underpayment of Estimated Tax by Farmers and Fishers Attachment for inst",
+  "pageCount": 1,
+  "source": "mef",
+  "notFor": [
+   "Form 2210"
+  ]
+ },
+ "form-2350": {
+  "id": "form-2350",
+  "label": "Form 2350",
+  "title": "Form Application for Extension of Time To File U.S. Income Tax Return For U.S. C",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-2439": {
+  "id": "form-2439",
+  "label": "Form 2439",
+  "title": "Name, address, and ZIP code of RIC or REIT Notice to Shareholder of Undistribute",
+  "pageCount": 8,
+  "source": "mef"
+ },
+ "form-2441": {
+  "id": "form-2441",
+  "label": "Form 2441",
+  "title": "Form Child and Dependent Care Expenses Attachment for instructions and the lates",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-2555": {
+  "id": "form-2555",
+  "label": "Form 2555",
+  "title": "Form Foreign Earned Income for instructions and the latest information. Attachme",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-3115": {
+  "id": "form-3115",
+  "label": "Form 3115",
+  "title": "Form (Rev. December ) Application for Change in Accounting Method Attachment for",
+  "pageCount": 8,
+  "source": "mef"
+ },
+ "form-3468": {
+  "id": "form-3468",
+  "label": "Form 3468",
+  "title": "Investment Credit Form Attachment for instructions and the latest information. S",
+  "pageCount": 12,
+  "source": "mef"
+ },
+ "form-3800": {
+  "id": "form-3800",
+  "label": "Form 3800",
+  "title": "Form General Business Credit for instructions and the latest information. Attach",
+  "pageCount": 9,
+  "source": "mef"
+ },
+ "form-3903": {
+  "id": "form-3903",
+  "label": "Form 3903",
+  "title": "Moving Expenses Form Attachment for instructions and the latest information. Seq",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-3921": {
+  "id": "form-3921",
+  "label": "Form 3921",
+  "title": "TRANSFEROR\u2019S name, street address, city or town, state or province, 1 Date optio",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 Date option granted",
+   "2 Date option exercised",
+   "3 Exercise price per share",
+   "4 Fair market value per share",
+   "5 No. of shares transferred",
+   "6 If other than TRANSFEROR, name, address, and TIN of"
+  ]
+ },
+ "form-3922": {
+  "id": "form-3922",
+  "label": "Form 3922",
+  "title": "CORPORATION\u2019S name, street address, city or town, state or province, 1 Date opti",
+  "pageCount": 3,
+  "source": "info",
+  "boxes": [
+   "1 Date option granted",
+   "2 Date option exercised",
+   "3 Fair market value per share",
+   "4 Fair market value per share",
+   "5 Exercise price paid per share",
+   "6 No. of shares transferred",
+   "7 Date legal title transferred",
+   "8 Exercise price per share determined as if the option was"
+  ]
+ },
+ "form-4136": {
+  "id": "form-4136",
+  "label": "Form 4136",
+  "title": "Form Credit for Federal Tax Paid on Fuels for instructions and the latest inform",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-4137": {
+  "id": "form-4137",
+  "label": "Form 4137",
+  "title": "Form Social Security and Medicare Tax on Unreported Tip Income Attachment for th",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-4255": {
+  "id": "form-4255",
+  "label": "Form 4255",
+  "title": "Form (Rev. December ) Certain Credit Recapture, Excessive Payments, and Penaltie",
+  "pageCount": 5,
+  "source": "mef"
+ },
+ "form-4547": {
+  "id": "form-4547",
+  "label": "Form 4547",
+  "title": "Form (December ) Trump Account Election(s) for instructions and the latest infor",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-4562": {
+  "id": "form-4562",
+  "label": "Form 4562",
+  "title": "Depreciation and Amortization Form (Including Information on Listed Property) At",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-4563": {
+  "id": "form-4563",
+  "label": "Form 4563",
+  "title": "Form Exclusion of Income for Bona Fide Residents of American Samoa (Rev. Septemb",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-461": {
+  "id": "form-461",
+  "label": "Form 461",
+  "title": "Form 461 Limitation on Business Losses Attachment for instructions and the lates",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-4684": {
+  "id": "form-4684",
+  "label": "Form 4684",
+  "title": "Casualties and Thefts Form Use a separate Form for each casualty or theft. Attac",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-4797": {
+  "id": "form-4797",
+  "label": "Form 4797",
+  "title": "Sales of Business Property (Also Involuntary Conversions and Recapture Amounts F",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-4835": {
+  "id": "form-4835",
+  "label": "Form 4835",
+  "title": "Farm Rental Income and Expenses (Crop and Livestock Shares (Not Cash) Received b",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-4868": {
+  "id": "form-4868",
+  "label": "Form 4868",
+  "title": "Form Application for Automatic Extension of Time To File U.S. Individual Income ",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-4952": {
+  "id": "form-4952",
+  "label": "Form 4952",
+  "title": "Investment Interest Expense Deduction Form Attachment for the latest information",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-4970": {
+  "id": "form-4970",
+  "label": "Form 4970",
+  "title": "Form Tax on Accumulation Distribution of Trusts Attachment for the latest inform",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-4972": {
+  "id": "form-4972",
+  "label": "Form 4972",
+  "title": "Tax on Lump-Sum Distributions Form (From Qualified Plans of Participants Born Be",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-5074": {
+  "id": "form-5074",
+  "label": "Form 5074",
+  "title": "Allocation of Individual Income Tax to Guam or the Commonwealth of the Northern ",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-5329": {
+  "id": "form-5329",
+  "label": "Form 5329",
+  "title": "Form Additional Taxes on Qualified Plans (Including IRAs) and Other Tax-Favored ",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-5471": {
+  "id": "form-5471",
+  "label": "Form 5471",
+  "title": "Form Information Return of U.S. Persons With Respect to Certain Foreign Corporat",
+  "pageCount": 6,
+  "source": "mef",
+  "notFor": [
+   "Schedule E (Form 5471)",
+   "Schedule G-1 (Form 5471)",
+   "Schedule H (Form 5471)",
+   "Schedule I-1 (Form 5471)",
+   "Schedule J (Form 5471)",
+   "Schedule M (Form 5471)",
+   "Schedule O (Form 5471)",
+   "Schedule P (Form 5471)",
+   "Schedule Q (Form 5471)",
+   "Schedule R (Form 5471)"
+  ]
+ },
+ "form-5471-schedule-e": {
+  "id": "form-5471-schedule-e",
+  "label": "Schedule E (Form 5471)",
+  "title": "SCHEDULE E Income, War Profits, and Excess Profits Taxes Paid or Accrued (Form )",
+  "pageCount": 3,
+  "source": "mef",
+  "parent": "form-5471",
+  "notFor": [
+   "Form 5471",
+   "Schedule G-1 (Form 5471)",
+   "Schedule H (Form 5471)",
+   "Schedule I-1 (Form 5471)",
+   "Schedule J (Form 5471)",
+   "Schedule M (Form 5471)",
+   "Schedule O (Form 5471)",
+   "Schedule P (Form 5471)",
+   "Schedule Q (Form 5471)",
+   "Schedule R (Form 5471)"
+  ]
+ },
+ "form-5471-schedule-g-1": {
+  "id": "form-5471-schedule-g-1",
+  "label": "Schedule G-1 (Form 5471)",
+  "title": "SCHEDULE G-1 Cost Sharing Arrangement (Form ) (Rev. December ) for instructions ",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-5471",
+  "notFor": [
+   "Form 5471",
+   "Schedule E (Form 5471)",
+   "Schedule H (Form 5471)",
+   "Schedule I-1 (Form 5471)",
+   "Schedule J (Form 5471)",
+   "Schedule M (Form 5471)",
+   "Schedule O (Form 5471)",
+   "Schedule P (Form 5471)",
+   "Schedule Q (Form 5471)",
+   "Schedule R (Form 5471)"
+  ]
+ },
+ "form-5471-schedule-h": {
+  "id": "form-5471-schedule-h",
+  "label": "Schedule H (Form 5471)",
+  "title": "SCHEDULE H Current Earnings and Profits (Form ) (Rev. December ) for instruction",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-5471",
+  "notFor": [
+   "Form 5471",
+   "Schedule E (Form 5471)",
+   "Schedule G-1 (Form 5471)",
+   "Schedule I-1 (Form 5471)",
+   "Schedule J (Form 5471)",
+   "Schedule M (Form 5471)",
+   "Schedule O (Form 5471)",
+   "Schedule P (Form 5471)",
+   "Schedule Q (Form 5471)",
+   "Schedule R (Form 5471)"
+  ]
+ },
+ "form-5471-schedule-i-1": {
+  "id": "form-5471-schedule-i-1",
+  "label": "Schedule I-1 (Form 5471)",
+  "title": "SCHEDULE I-1 (Form ) Information for Global Intangible Low-Taxed Income (Rev. De",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-5471",
+  "notFor": [
+   "Form 5471",
+   "Schedule E (Form 5471)",
+   "Schedule G-1 (Form 5471)",
+   "Schedule H (Form 5471)",
+   "Schedule J (Form 5471)",
+   "Schedule M (Form 5471)",
+   "Schedule O (Form 5471)",
+   "Schedule P (Form 5471)",
+   "Schedule Q (Form 5471)",
+   "Schedule R (Form 5471)"
+  ]
+ },
+ "form-5471-schedule-j": {
+  "id": "form-5471-schedule-j",
+  "label": "Schedule J (Form 5471)",
+  "title": "SCHEDULE J (Form ) Accumulated Earnings & Profits (E&P) of Controlled Foreign Co",
+  "pageCount": 3,
+  "source": "mef",
+  "parent": "form-5471",
+  "notFor": [
+   "Form 5471",
+   "Schedule E (Form 5471)",
+   "Schedule G-1 (Form 5471)",
+   "Schedule H (Form 5471)",
+   "Schedule I-1 (Form 5471)",
+   "Schedule M (Form 5471)",
+   "Schedule O (Form 5471)",
+   "Schedule P (Form 5471)",
+   "Schedule Q (Form 5471)",
+   "Schedule R (Form 5471)"
+  ]
+ },
+ "form-5471-schedule-m": {
+  "id": "form-5471-schedule-m",
+  "label": "Schedule M (Form 5471)",
+  "title": "SCHEDULE M Transactions Between Controlled Foreign Corporation (Form ) (Rev. Dec",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-5471",
+  "notFor": [
+   "Form 5471",
+   "Schedule E (Form 5471)",
+   "Schedule G-1 (Form 5471)",
+   "Schedule H (Form 5471)",
+   "Schedule I-1 (Form 5471)",
+   "Schedule J (Form 5471)",
+   "Schedule O (Form 5471)",
+   "Schedule P (Form 5471)",
+   "Schedule Q (Form 5471)",
+   "Schedule R (Form 5471)"
+  ]
+ },
+ "form-5471-schedule-o": {
+  "id": "form-5471-schedule-o",
+  "label": "Schedule O (Form 5471)",
+  "title": "SCHEDULE O Organization or Reorganization of Foreign (Form ) Corporation, and Ac",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-5471",
+  "notFor": [
+   "Form 5471",
+   "Schedule E (Form 5471)",
+   "Schedule G-1 (Form 5471)",
+   "Schedule H (Form 5471)",
+   "Schedule I-1 (Form 5471)",
+   "Schedule J (Form 5471)",
+   "Schedule M (Form 5471)",
+   "Schedule P (Form 5471)",
+   "Schedule Q (Form 5471)",
+   "Schedule R (Form 5471)"
+  ]
+ },
+ "form-5471-schedule-p": {
+  "id": "form-5471-schedule-p",
+  "label": "Schedule P (Form 5471)",
+  "title": "SCHEDULE P Previously Taxed Earnings and Profits of U.S. Shareholder (Form ) (Re",
+  "pageCount": 4,
+  "source": "mef",
+  "parent": "form-5471",
+  "notFor": [
+   "Form 5471",
+   "Schedule E (Form 5471)",
+   "Schedule G-1 (Form 5471)",
+   "Schedule H (Form 5471)",
+   "Schedule I-1 (Form 5471)",
+   "Schedule J (Form 5471)",
+   "Schedule M (Form 5471)",
+   "Schedule O (Form 5471)",
+   "Schedule Q (Form 5471)",
+   "Schedule R (Form 5471)"
+  ]
+ },
+ "form-5471-schedule-q": {
+  "id": "form-5471-schedule-q",
+  "label": "Schedule Q (Form 5471)",
+  "title": "SCHEDULE Q CFC Income by CFC Income Groups (Form ) (Rev. December ) for instruct",
+  "pageCount": 4,
+  "source": "mef",
+  "parent": "form-5471",
+  "notFor": [
+   "Form 5471",
+   "Schedule E (Form 5471)",
+   "Schedule G-1 (Form 5471)",
+   "Schedule H (Form 5471)",
+   "Schedule I-1 (Form 5471)",
+   "Schedule J (Form 5471)",
+   "Schedule M (Form 5471)",
+   "Schedule O (Form 5471)",
+   "Schedule P (Form 5471)",
+   "Schedule R (Form 5471)"
+  ]
+ },
+ "form-5471-schedule-r": {
+  "id": "form-5471-schedule-r",
+  "label": "Schedule R (Form 5471)",
+  "title": "SCHEDULE R (Form ) Distributions From a Foreign Corporation (December ) for inst",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-5471",
+  "notFor": [
+   "Form 5471",
+   "Schedule E (Form 5471)",
+   "Schedule G-1 (Form 5471)",
+   "Schedule H (Form 5471)",
+   "Schedule I-1 (Form 5471)",
+   "Schedule J (Form 5471)",
+   "Schedule M (Form 5471)",
+   "Schedule O (Form 5471)",
+   "Schedule P (Form 5471)",
+   "Schedule Q (Form 5471)"
+  ]
+ },
+ "form-5498": {
+  "id": "form-5498",
+  "label": "Form 5498",
+  "title": "TRUSTEE\u2019S/ISSUER\u2019S name 1 IRA contributions (other than amounts in boxes 2\u20134, 8\u2013",
+  "pageCount": 4,
+  "source": "info",
+  "boxes": [
+   "1 IRA contributions (other",
+   "2 Rollover contributions",
+   "3 Roth IRA conversion",
+   "4 Recharacterized",
+   "5 FMV of account",
+   "6 Life insurance cost included",
+   "8 SEP contributions",
+   "9 SIMPLE contributions"
+  ],
+  "notFor": [
+   "Form 5498-ESA",
+   "Form 5498-QA",
+   "Form 5498-SA"
+  ]
+ },
+ "form-5498-esa": {
+  "id": "form-5498-esa",
+  "label": "Form 5498-ESA",
+  "title": "TRUSTEE\u2019S or ISSUER\u2019S name 1 Coverdell ESA contributions Form -ESA Coverdell ESA",
+  "pageCount": 3,
+  "source": "info",
+  "boxes": [
+   "1 Coverdell ESA contributions OMB No. 1545-1815",
+   "2 Rollover contributions"
+  ],
+  "notFor": [
+   "Form 5498",
+   "Form 5498-QA",
+   "Form 5498-SA"
+  ]
+ },
+ "form-5498-qa": {
+  "id": "form-5498-qa",
+  "label": "Form 5498-QA",
+  "title": "2A2A ISSUER\u2019S name 1 ABLE contributions Form -QA ABLE Account Street address Roo",
+  "pageCount": 3,
+  "source": "info",
+  "boxes": [
+   "1 ABLE contributions",
+   "2 ABLE to ABLE rollovers",
+   "3 Cumulative contributions",
+   "4 Fair market value",
+   "5 Check if account opened",
+   "6 Basis of eligibility",
+   "8 Trump account to ABLE rollover"
+  ],
+  "notFor": [
+   "Form 5498",
+   "Form 5498-ESA",
+   "Form 5498-SA"
+  ]
+ },
+ "form-5498-sa": {
+  "id": "form-5498-sa",
+  "label": "Form 5498-SA",
+  "title": "TRUSTEE\u2019S name 1 Employee\u2019s or self- employed person\u2019s Archer MSA contributions ",
+  "pageCount": 3,
+  "source": "info",
+  "boxes": [
+   "1 Employee\u2019s or self-",
+   "2 Total contributions made in the calendar year",
+   "3 Total HSA or Archer MSA contributions made in the",
+   "4 Rollover contributions",
+   "5 Fair market value of HSA,"
+  ],
+  "notFor": [
+   "Form 5498",
+   "Form 5498-ESA",
+   "Form 5498-QA"
+  ]
+ },
+ "form-56": {
+  "id": "form-56",
+  "label": "Form 56",
+  "title": "Form 56 (Rev. June ) Notice Concerning Fiduciary Relationship (Internal Revenue ",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-5695": {
+  "id": "form-5695",
+  "label": "Form 5695",
+  "title": "Residential Energy Credits Form Attachment for instructions and the latest infor",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-5713": {
+  "id": "form-5713",
+  "label": "Form 5713",
+  "title": "Form International Boycott Report Attachment Sequence No. 123 (Rev. December ) F",
+  "pageCount": 6,
+  "source": "mef",
+  "notFor": [
+   "Schedule A (Form 5713)",
+   "Schedule B (Form 5713)",
+   "Schedule C (Form 5713)"
+  ]
+ },
+ "form-5713-schedule-a": {
+  "id": "form-5713-schedule-a",
+  "label": "Schedule A (Form 5713)",
+  "title": "SCHEDULE A International (Form ) Boycott Factor (Section 999(c)(1)) Complete onl",
+  "pageCount": 3,
+  "source": "mef",
+  "parent": "form-5713",
+  "notFor": [
+   "Form 5713",
+   "Schedule B (Form 5713)",
+   "Schedule C (Form 5713)"
+  ]
+ },
+ "form-5713-schedule-b": {
+  "id": "form-5713-schedule-b",
+  "label": "Schedule B (Form 5713)",
+  "title": "SCHEDULE B Specifically Attributable Taxes (Form ) and Income (Section 999(c)(2)",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-5713",
+  "notFor": [
+   "Form 5713",
+   "Schedule A (Form 5713)",
+   "Schedule C (Form 5713)"
+  ]
+ },
+ "form-5713-schedule-c": {
+  "id": "form-5713-schedule-c",
+  "label": "Schedule C (Form 5713)",
+  "title": "SCHEDULE C Tax Effect of the International Boycott Provisions (Form ) (Rev. Sept",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-5713",
+  "notFor": [
+   "Form 5713",
+   "Schedule A (Form 5713)",
+   "Schedule B (Form 5713)"
+  ]
+ },
+ "form-5884": {
+  "id": "form-5884",
+  "label": "Form 5884",
+  "title": "Form (Rev. March ) Work Opportunity Credit Attachment for instructions and the l",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-6198": {
+  "id": "form-6198",
+  "label": "Form 6198",
+  "title": "Form (Rev. November ) At-Risk Limitations Attachment for instructions and the la",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-6251": {
+  "id": "form-6251",
+  "label": "Form 6251",
+  "title": "Alternative Minimum Tax\u2014Individuals Form Attachment for instructions and the lat",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-6252": {
+  "id": "form-6252",
+  "label": "Form 6252",
+  "title": "Form Installment Sale Income Use a separate form for each sale or other disposit",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-6478": {
+  "id": "form-6478",
+  "label": "Form 6478",
+  "title": "Form (Rev. January ) Biofuel Producer Credit Attachment for instructions and the",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-6765": {
+  "id": "form-6765",
+  "label": "Form 6765",
+  "title": "Form (Rev. December ) Credit for Increasing Research Activities Attachment for i",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-6781": {
+  "id": "form-6781",
+  "label": "Form 6781",
+  "title": "Gains and Losses From Section Contracts and Straddles Form Attachment for the la",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-7203": {
+  "id": "form-7203",
+  "label": "Form 7203",
+  "title": "Form (Rev. December ) S Corporation Shareholder Stock and Debt Basis Limitations",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-7204": {
+  "id": "form-7204",
+  "label": "Form 7204",
+  "title": "Form Consent To Extend the Time To Assess Tax Related to Contested Foreign Incom",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-7205": {
+  "id": "form-7205",
+  "label": "Form 7205",
+  "title": "Form (Rev. December ) Energy Efficient Commercial Buildings Deduction for instru",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-7206": {
+  "id": "form-7206",
+  "label": "Form 7206",
+  "title": "Self-Employed Health Insurance Deduction Form Attachment for instructions and th",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-7207": {
+  "id": "form-7207",
+  "label": "Form 7207",
+  "title": "Form (Rev. December ) Advanced Manufacturing Production Credit for instructions ",
+  "pageCount": 5,
+  "source": "mef"
+ },
+ "form-7210": {
+  "id": "form-7210",
+  "label": "Form 7210",
+  "title": "Form Clean Hydrogen Production Credit Attachment for instructions and the latest",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-7211": {
+  "id": "form-7211",
+  "label": "Form 7211",
+  "title": "Form (December ) Clean Electricity Production Credit Attachment for instructions",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-7213": {
+  "id": "form-7213",
+  "label": "Form 7213",
+  "title": "Form (Rev. December ) Nuclear Power Production Credit Attachment for instruction",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-7217": {
+  "id": "form-7217",
+  "label": "Form 7217",
+  "title": "Form (December ) Partner\u2019s Report of Property Distributed by a Partnership Attac",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-7218": {
+  "id": "form-7218",
+  "label": "Form 7218",
+  "title": "Form Clean Fuel Production Credit (December ) Attachment for instructions and th",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8082": {
+  "id": "form-8082",
+  "label": "Form 8082",
+  "title": "Form Notice of Inconsistent Treatment or Administrative Adjustment Request (AAR)",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8275": {
+  "id": "form-8275",
+  "label": "Form 8275",
+  "title": "Form Disclosure Statement Don\u2019t use this form to disclose items or positions tha",
+  "pageCount": 2,
+  "source": "mef",
+  "notFor": [
+   "Form 8275-R"
+  ]
+ },
+ "form-8275-r": {
+  "id": "form-8275-r",
+  "label": "Form 8275-R",
+  "title": "Form -R Regulation Disclosure Statement Use this form only to disclose items or ",
+  "pageCount": 2,
+  "source": "mef",
+  "notFor": [
+   "Form 8275"
+  ]
+ },
+ "form-8283": {
+  "id": "form-8283",
+  "label": "Form 8283",
+  "title": "Form (Rev. December ) Noncash Charitable Contributions Attach one or more Forms ",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8288-a": {
+  "id": "form-8288-a",
+  "label": "Form 8288-A",
+  "title": "WITHHOLDING AGENT\u2019S name, street address, city or town, state or 1 Date of trans",
+  "pageCount": 5,
+  "source": "mef"
+ },
+ "form-8332": {
+  "id": "form-8332",
+  "label": "Form 8332",
+  "title": "Form (Rev. December ) Release/Revocation of Release of Claim to Exemption for Ch",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8379": {
+  "id": "form-8379",
+  "label": "Form 8379",
+  "title": "Form (Rev. November ) Injured Spouse Allocation for instructions and the latest ",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8396": {
+  "id": "form-8396",
+  "label": "Form 8396",
+  "title": "Form Mortgage Interest Credit (For Holders of Qualified Mortgage Credit Certific",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8582": {
+  "id": "form-8582",
+  "label": "Form 8582",
+  "title": "Passive Activity Loss Limitations Form See separate instructions. Attachment for",
+  "pageCount": 3,
+  "source": "mef",
+  "notFor": [
+   "Form 8582-CR"
+  ]
+ },
+ "form-8582-cr": {
+  "id": "form-8582-cr",
+  "label": "Form 8582-CR",
+  "title": "Form -CR Passive Activity Credit Limitations (Rev. December ) Attachment for ins",
+  "pageCount": 2,
+  "source": "mef",
+  "notFor": [
+   "Form 8582"
+  ]
+ },
+ "form-8586": {
+  "id": "form-8586",
+  "label": "Form 8586",
+  "title": "Form (Rev. December ) Low-Income Housing Credit Attachment for the latest inform",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8594": {
+  "id": "form-8594",
+  "label": "Form 8594",
+  "title": "Form Asset Acquisition Statement Under Section (Rev. November ) Attachment for i",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8606": {
+  "id": "form-8606",
+  "label": "Form 8606",
+  "title": "Nondeductible IRAs Form Attachment for instructions and the latest information. ",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8609-a": {
+  "id": "form-8609-a",
+  "label": "Form 8609-A",
+  "title": "Form -A (Rev. December ) Annual Statement for Low-Income Housing Credit \u00a9 File w",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8611": {
+  "id": "form-8611",
+  "label": "Form 8611",
+  "title": "Form (Rev. December ) Recapture of Low-Income Housing Credit for instructions an",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-8615": {
+  "id": "form-8615",
+  "label": "Form 8615",
+  "title": "Form Tax for Certain Children Who Have Unearned Income Attach only to the child\u2019",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8621": {
+  "id": "form-8621",
+  "label": "Form 8621",
+  "title": "Form (Rev. December ) Information Return by a Shareholder of a Passive Foreign I",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-8689": {
+  "id": "form-8689",
+  "label": "Form 8689",
+  "title": "Allocation of Individual Income Tax to the U.S. Virgin Islands Form Attachment f",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-8697": {
+  "id": "form-8697",
+  "label": "Form 8697",
+  "title": "Form (Rev. December ) Interest Computation Under the Look-Back Method for Comple",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8801": {
+  "id": "form-8801",
+  "label": "Form 8801",
+  "title": "Form Credit for Prior Year Minimum Tax\u2014 Individuals, Estates, and Trusts Attachm",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-8805": {
+  "id": "form-8805",
+  "label": "Form 8805",
+  "title": "Form (Rev. November ) Foreign Partner\u2019s Information Statement of Section Withhol",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-8814": {
+  "id": "form-8814",
+  "label": "Form 8814",
+  "title": "Parents\u2019 Election To Report Child\u2019s Interest and Dividends Form Attachment for t",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8815": {
+  "id": "form-8815",
+  "label": "Form 8815",
+  "title": "Form Exclusion of Interest From Series EE and I U.S. Savings Bonds Issued After ",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-8820": {
+  "id": "form-8820",
+  "label": "Form 8820",
+  "title": "Form (Rev. September ) Orphan Drug Credit for the latest information. Attachment",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-8824": {
+  "id": "form-8824",
+  "label": "Form 8824",
+  "title": "Like-Kind Exchanges Form (and section conflict-of-interest sales) Attachment for",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8825": {
+  "id": "form-8825",
+  "label": "Form 8825",
+  "title": "Form (Rev. December ) Rental Real Estate Income and Expenses of a Partnership or",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8826": {
+  "id": "form-8826",
+  "label": "Form 8826",
+  "title": "Form Disabled Access Credit (Rev. September ) Attachment for the latest informat",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8828": {
+  "id": "form-8828",
+  "label": "Form 8828",
+  "title": "Form Recapture of Federal Mortgage Subsidy (Rev. November ) for instructions and",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8829": {
+  "id": "form-8829",
+  "label": "Form 8829",
+  "title": "Form Expenses for Business Use of Your Home File only with Schedule C (Form ). U",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8833": {
+  "id": "form-8833",
+  "label": "Form 8833",
+  "title": "Form (Rev. December ) Treaty-Based Return Position Disclosure Under Section or (",
+  "pageCount": 5,
+  "source": "mef"
+ },
+ "form-8834": {
+  "id": "form-8834",
+  "label": "Form 8834",
+  "title": "Form (Rev. October ) Qualified Electric Vehicle Credit Attachment for the latest",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8835": {
+  "id": "form-8835",
+  "label": "Form 8835",
+  "title": "Form Renewable Electricity Production Credit Attachment for instructions and the",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-8838": {
+  "id": "form-8838",
+  "label": "Form 8838",
+  "title": "Form (Rev. December ) Consent To Extend the Time To Assess Tax Under Section 367",
+  "pageCount": 2,
+  "source": "mef",
+  "notFor": [
+   "Form 8838-P"
+  ]
+ },
+ "form-8838-p": {
+  "id": "form-8838-p",
+  "label": "Form 8838-P",
+  "title": "Form -P Pursuant (Rev. October ) Consent To Extend the Time To Assess Tax to the",
+  "pageCount": 3,
+  "source": "mef",
+  "notFor": [
+   "Form 8838"
+  ]
+ },
+ "form-8839": {
+  "id": "form-8839",
+  "label": "Form 8839",
+  "title": "Qualified Adoption Expenses Form Attachment for instructions and the latest info",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8840": {
+  "id": "form-8840",
+  "label": "Form 8840",
+  "title": "Closer Connection Exception Statement for Aliens Form Attachment for the latest ",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-8843": {
+  "id": "form-8843",
+  "label": "Form 8843",
+  "title": "Form Statement for Exempt Individuals and Individuals With a Medical Condition F",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-8844": {
+  "id": "form-8844",
+  "label": "Form 8844",
+  "title": "Form (Rev. March ) Empowerment Zone Employment Credit Attachment for instruction",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8845": {
+  "id": "form-8845",
+  "label": "Form 8845",
+  "title": "Form (Rev. January ) Indian Employment Credit Attachment Sequence No. 113 for in",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8846": {
+  "id": "form-8846",
+  "label": "Form 8846",
+  "title": "Credit for Employer Social Security and Medicare Taxes Paid on Certain Employee ",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8853": {
+  "id": "form-8853",
+  "label": "Form 8853",
+  "title": "Archer MSAs and Long-Term Care Insurance Contracts Form for instructions and the",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8854": {
+  "id": "form-8854",
+  "label": "Form 8854",
+  "title": "Form Initial and Annual Expatriation Statement for instructions and the latest i",
+  "pageCount": 5,
+  "source": "mef"
+ },
+ "form-8858": {
+  "id": "form-8858",
+  "label": "Form 8858",
+  "title": "Form Information Return of U.S. Persons With Respect to Foreign Disregarded Enti",
+  "pageCount": 4,
+  "source": "mef",
+  "notFor": [
+   "Schedule M (Form 8858)"
+  ]
+ },
+ "form-8858-schedule-m": {
+  "id": "form-8858-schedule-m",
+  "label": "Schedule M (Form 8858)",
+  "title": "SCHEDULE M Transactions Between Foreign Disregarded Entity (FDE) or (Form ) (Rev",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-8858",
+  "notFor": [
+   "Form 8858"
+  ]
+ },
+ "form-8859": {
+  "id": "form-8859",
+  "label": "Form 8859",
+  "title": "Carryforward of the District of Columbia First-Time Homebuyer Credit Form Attach",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8862": {
+  "id": "form-8862",
+  "label": "Form 8862",
+  "title": "Form (Rev. December ) Information To Claim Certain Credits After Disallowance Ea",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-8863": {
+  "id": "form-8863",
+  "label": "Form 8863",
+  "title": "Education Credits (American Opportunity and Lifetime Learning Credits) Form Atta",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8864": {
+  "id": "form-8864",
+  "label": "Form 8864",
+  "title": "Form (Rev. December ) Biodiesel, Renewable Diesel, or Sustainable Aviation Fuels",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8865": {
+  "id": "form-8865",
+  "label": "Form 8865",
+  "title": "Form Return of U.S. Persons With Respect to Certain Foreign Partnerships for ins",
+  "pageCount": 6,
+  "source": "mef",
+  "notFor": [
+   "Schedule G (Form 8865)",
+   "Schedule H (Form 8865)",
+   "Schedule K-1 (Form 8865)",
+   "Schedule K-2 (Form 8865)",
+   "Schedule K-3 (Form 8865)",
+   "Schedule O (Form 8865)",
+   "Schedule P (Form 8865)"
+  ]
+ },
+ "form-8865-schedule-g": {
+  "id": "form-8865-schedule-g",
+  "label": "Schedule G (Form 8865)",
+  "title": "SCHEDULE G Statement of Application of the Gain Deferral Method (Form ) Under Se",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-8865",
+  "notFor": [
+   "Form 8865",
+   "Schedule H (Form 8865)",
+   "Schedule K-1 (Form 8865)",
+   "Schedule K-2 (Form 8865)",
+   "Schedule K-3 (Form 8865)",
+   "Schedule O (Form 8865)",
+   "Schedule P (Form 8865)"
+  ]
+ },
+ "form-8865-schedule-h": {
+  "id": "form-8865-schedule-h",
+  "label": "Schedule H (Form 8865)",
+  "title": "SCHEDULE H Acceleration Events and Exceptions Reporting Relating (Form ) to Gain",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-8865",
+  "notFor": [
+   "Form 8865",
+   "Schedule G (Form 8865)",
+   "Schedule K-1 (Form 8865)",
+   "Schedule K-2 (Form 8865)",
+   "Schedule K-3 (Form 8865)",
+   "Schedule O (Form 8865)",
+   "Schedule P (Form 8865)"
+  ]
+ },
+ "form-8865-schedule-k-1": {
+  "id": "form-8865-schedule-k-1",
+  "label": "Schedule K-1 (Form 8865)",
+  "title": "Final K-1 Amended K-1 Schedule K-1 (Form ) For calendar year , or tax Part III P",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-8865",
+  "notFor": [
+   "Form 8865",
+   "Schedule G (Form 8865)",
+   "Schedule H (Form 8865)",
+   "Schedule K-2 (Form 8865)",
+   "Schedule K-3 (Form 8865)",
+   "Schedule O (Form 8865)",
+   "Schedule P (Form 8865)"
+  ]
+ },
+ "form-8865-schedule-k-2": {
+  "id": "form-8865-schedule-k-2",
+  "label": "Schedule K-2 (Form 8865)",
+  "title": "SCHEDULE K-2 Partners\u2019 Distributive Share Items\u2014International (Form ) for instru",
+  "pageCount": 14,
+  "source": "mef",
+  "parent": "form-8865",
+  "notFor": [
+   "Form 8865",
+   "Schedule G (Form 8865)",
+   "Schedule H (Form 8865)",
+   "Schedule K-1 (Form 8865)",
+   "Schedule K-3 (Form 8865)",
+   "Schedule O (Form 8865)",
+   "Schedule P (Form 8865)"
+  ]
+ },
+ "form-8865-schedule-k-3": {
+  "id": "form-8865-schedule-k-3",
+  "label": "Schedule K-3 (Form 8865)",
+  "title": "Schedule K-3 (Form ) Partner\u2019s Share of Income, Deductions, Credits, etc.\u2014Intern",
+  "pageCount": 15,
+  "source": "mef",
+  "parent": "form-8865",
+  "notFor": [
+   "Form 8865",
+   "Schedule G (Form 8865)",
+   "Schedule H (Form 8865)",
+   "Schedule K-1 (Form 8865)",
+   "Schedule K-2 (Form 8865)",
+   "Schedule O (Form 8865)",
+   "Schedule P (Form 8865)"
+  ]
+ },
+ "form-8865-schedule-o": {
+  "id": "form-8865-schedule-o",
+  "label": "Schedule O (Form 8865)",
+  "title": "SCHEDULE O Transfer of Property to a Foreign Partnership (Form ) (Under Section ",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-8865",
+  "notFor": [
+   "Form 8865",
+   "Schedule G (Form 8865)",
+   "Schedule H (Form 8865)",
+   "Schedule K-1 (Form 8865)",
+   "Schedule K-2 (Form 8865)",
+   "Schedule K-3 (Form 8865)",
+   "Schedule P (Form 8865)"
+  ]
+ },
+ "form-8865-schedule-p": {
+  "id": "form-8865-schedule-p",
+  "label": "Schedule P (Form 8865)",
+  "title": "SCHEDULE P Acquisitions, Dispositions, and Changes of Interests (Form ) in a For",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-8865",
+  "notFor": [
+   "Form 8865",
+   "Schedule G (Form 8865)",
+   "Schedule H (Form 8865)",
+   "Schedule K-1 (Form 8865)",
+   "Schedule K-2 (Form 8865)",
+   "Schedule K-3 (Form 8865)",
+   "Schedule O (Form 8865)"
+  ]
+ },
+ "form-8866": {
+  "id": "form-8866",
+  "label": "Form 8866",
+  "title": "Form (Rev. December ) Interest Computation Under the Look-Back Method for Proper",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8867": {
+  "id": "form-8867",
+  "label": "Form 8867",
+  "title": "Form Paid Preparer\u2019s Due Diligence Checklist Earned Income Credit (EIC), America",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8873": {
+  "id": "form-8873",
+  "label": "Form 8873",
+  "title": "Form (Rev. December ) Extraterritorial Income Exclusion Attachment See separate ",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-8874": {
+  "id": "form-8874",
+  "label": "Form 8874",
+  "title": "Form (Rev. November ) New Markets Credit Attachment for the latest information. ",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-8880": {
+  "id": "form-8880",
+  "label": "Form 8880",
+  "title": "Form Credit for Qualified Retirement Savings Contributions Attachment for the la",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8881": {
+  "id": "form-8881",
+  "label": "Form 8881",
+  "title": "Form (Rev. December ) Credits for Small Employer Pension Plan Startup Costs, Con",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8882": {
+  "id": "form-8882",
+  "label": "Form 8882",
+  "title": "Form Credit for Employer-Provided Childcare Facilities and Services (Rev. Decemb",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8883": {
+  "id": "form-8883",
+  "label": "Form 8883",
+  "title": "Form (Rev. October ) Asset Allocation Statement Under Section 338 for instructio",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8886": {
+  "id": "form-8886",
+  "label": "Form 8886",
+  "title": "Form (Rev. December ) Reportable Transaction Disclosure Statement See separate i",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8888": {
+  "id": "form-8888",
+  "label": "Form 8888",
+  "title": "Form Allocation of Refund For calendar year (Rev. December ) 20 Attachment for t",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-8889": {
+  "id": "form-8889",
+  "label": "Form 8889",
+  "title": "Health Savings Accounts (HSAs) Form Attachment for instructions and the latest i",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8896": {
+  "id": "form-8896",
+  "label": "Form 8896",
+  "title": "Form (Rev. December ) Low Sulfur Diesel Fuel Production Credit Attachment for th",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8900": {
+  "id": "form-8900",
+  "label": "Form 8900",
+  "title": "Form (Rev. December ) Qualified Railroad Track Maintenance Credit Attachment for",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8906": {
+  "id": "form-8906",
+  "label": "Form 8906",
+  "title": "Distilled Spirits Credit Form Attachment for the latest information. Sequence No",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8908": {
+  "id": "form-8908",
+  "label": "Form 8908",
+  "title": "Form (Rev. December ) Energy Efficient Home Credit for instructions and the late",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-8911": {
+  "id": "form-8911",
+  "label": "Form 8911",
+  "title": "Form (Rev. December ) Alternative Fuel Vehicle Refueling Property Credit Attachm",
+  "pageCount": 1,
+  "source": "mef",
+  "notFor": [
+   "Schedule A (Form 8911)"
+  ]
+ },
+ "form-8911-schedule-a": {
+  "id": "form-8911-schedule-a",
+  "label": "Schedule A (Form 8911)",
+  "title": "SCHEDULE A (Form ) Alternative Fuel Vehicle Refueling Property (Rev. December ) ",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-8911",
+  "notFor": [
+   "Form 8911"
+  ]
+ },
+ "form-8912": {
+  "id": "form-8912",
+  "label": "Form 8912",
+  "title": "Form Credit to Holders of Tax Credit Bonds (Rev. December ) Attachment Sequence ",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-8915-f": {
+  "id": "form-8915-f",
+  "label": "Form 8915-F",
+  "title": "Form -F (Rev. December ) Qualified Disaster Retirement Plan Distributions and Re",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-8917": {
+  "id": "form-8917",
+  "label": "Form 8917",
+  "title": "Form (Rev. January ) Tuition and Fees Deduction for the latest information. Atta",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-8919": {
+  "id": "form-8919",
+  "label": "Form 8919",
+  "title": "Form Uncollected Social Security and Medicare Tax on Wages Attachment for the la",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8925": {
+  "id": "form-8925",
+  "label": "Form 8925",
+  "title": "Form (Rev. September ) Report of Employer-Owned Life Insurance Contracts See ins",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8932": {
+  "id": "form-8932",
+  "label": "Form 8932",
+  "title": "Form (Rev. December ) Credit for Employer Differential Wage Payments Attachment ",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8933": {
+  "id": "form-8933",
+  "label": "Form 8933",
+  "title": "Form Carbon Oxide Sequestration Credit (Rev. December ) Attachment for instructi",
+  "pageCount": 4,
+  "source": "mef",
+  "notFor": [
+   "Schedule A (Form 8933)",
+   "Schedule B (Form 8933)",
+   "Schedule C (Form 8933)",
+   "Schedule D (Form 8933)",
+   "Schedule E (Form 8933)",
+   "Schedule F (Form 8933)"
+  ]
+ },
+ "form-8933-schedule-a": {
+  "id": "form-8933-schedule-a",
+  "label": "Schedule A (Form 8933)",
+  "title": "Schedule A (Form ) Disposal or Enhanced Oil Recovery Owner Certification (Rev. D",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-8933",
+  "notFor": [
+   "Form 8933",
+   "Schedule B (Form 8933)",
+   "Schedule C (Form 8933)",
+   "Schedule D (Form 8933)",
+   "Schedule E (Form 8933)",
+   "Schedule F (Form 8933)"
+  ]
+ },
+ "form-8933-schedule-b": {
+  "id": "form-8933-schedule-b",
+  "label": "Schedule B (Form 8933)",
+  "title": "Schedule B (Form ) Disposal Operator Certification (Rev. December ) for instruct",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-8933",
+  "notFor": [
+   "Form 8933",
+   "Schedule A (Form 8933)",
+   "Schedule C (Form 8933)",
+   "Schedule D (Form 8933)",
+   "Schedule E (Form 8933)",
+   "Schedule F (Form 8933)"
+  ]
+ },
+ "form-8933-schedule-c": {
+  "id": "form-8933-schedule-c",
+  "label": "Schedule C (Form 8933)",
+  "title": "Schedule C (Form ) Enhanced Oil Recovery Operator Certification (Rev. December )",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-8933",
+  "notFor": [
+   "Form 8933",
+   "Schedule A (Form 8933)",
+   "Schedule B (Form 8933)",
+   "Schedule D (Form 8933)",
+   "Schedule E (Form 8933)",
+   "Schedule F (Form 8933)"
+  ]
+ },
+ "form-8933-schedule-d": {
+  "id": "form-8933-schedule-d",
+  "label": "Schedule D (Form 8933)",
+  "title": "Schedule D (Form ) Recapture Certification (Rev. December ) for instructions and",
+  "pageCount": 4,
+  "source": "mef",
+  "parent": "form-8933",
+  "notFor": [
+   "Form 8933",
+   "Schedule A (Form 8933)",
+   "Schedule B (Form 8933)",
+   "Schedule C (Form 8933)",
+   "Schedule E (Form 8933)",
+   "Schedule F (Form 8933)"
+  ]
+ },
+ "form-8933-schedule-e": {
+  "id": "form-8933-schedule-e",
+  "label": "Schedule E (Form 8933)",
+  "title": "Schedule E (Form ) Election Certification (Rev. December ) for instructions and ",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-8933",
+  "notFor": [
+   "Form 8933",
+   "Schedule A (Form 8933)",
+   "Schedule B (Form 8933)",
+   "Schedule C (Form 8933)",
+   "Schedule D (Form 8933)",
+   "Schedule F (Form 8933)"
+  ]
+ },
+ "form-8933-schedule-f": {
+  "id": "form-8933-schedule-f",
+  "label": "Schedule F (Form 8933)",
+  "title": "Schedule F (Form ) Utilization Certification (Rev. December ) for instructions a",
+  "pageCount": 3,
+  "source": "mef",
+  "parent": "form-8933",
+  "notFor": [
+   "Form 8933",
+   "Schedule A (Form 8933)",
+   "Schedule B (Form 8933)",
+   "Schedule C (Form 8933)",
+   "Schedule D (Form 8933)",
+   "Schedule E (Form 8933)"
+  ]
+ },
+ "form-8936": {
+  "id": "form-8936",
+  "label": "Form 8936",
+  "title": "Clean Vehicle Credits Form Attachment for instructions and the latest informatio",
+  "pageCount": 1,
+  "source": "mef",
+  "notFor": [
+   "Schedule A (Form 8936)"
+  ]
+ },
+ "form-8936-schedule-a": {
+  "id": "form-8936-schedule-a",
+  "label": "Schedule A (Form 8936)",
+  "title": "SCHEDULE A Clean Vehicle Credit Amount (Form ) for instructions and the latest i",
+  "pageCount": 3,
+  "source": "mef",
+  "parent": "form-8936",
+  "notFor": [
+   "Form 8936"
+  ]
+ },
+ "form-8938": {
+  "id": "form-8938",
+  "label": "Form 8938",
+  "title": "Form (Rev. November ) Statement of Specified Foreign Financial Assets for instru",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8941": {
+  "id": "form-8941",
+  "label": "Form 8941",
+  "title": "Form Credit for Small Employer Health Insurance Premiums Attachment for instruct",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8949": {
+  "id": "form-8949",
+  "label": "Form 8949",
+  "title": "Form Sales and Other Dispositions of Capital Assets File with your Schedule D to",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8958": {
+  "id": "form-8958",
+  "label": "Form 8958",
+  "title": "Form (Rev. November ) Allocation of Tax Amounts Between Certain Individuals in C",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-8959": {
+  "id": "form-8959",
+  "label": "Form 8959",
+  "title": "Form Additional Medicare Tax If any line does not apply to you, leave it blank. ",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8960": {
+  "id": "form-8960",
+  "label": "Form 8960",
+  "title": "Net Investment Income Tax\u2014 Individuals, Estates, and Trusts Form Attachment for ",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8962": {
+  "id": "form-8962",
+  "label": "Form 8962",
+  "title": "Form Premium Tax Credit (PTC) Attachment for instructions and the latest informa",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-8978": {
+  "id": "form-8978",
+  "label": "Form 8978",
+  "title": "Form (Rev. January ) Partner\u2019s Additional Reporting Year Tax for instructions an",
+  "pageCount": 1,
+  "source": "mef",
+  "notFor": [
+   "Schedule A (Form 8978)"
+  ]
+ },
+ "form-8978-schedule-a": {
+  "id": "form-8978-schedule-a",
+  "label": "Schedule A (Form 8978)",
+  "title": "SCHEDULE A Partner\u2019s Additional Reporting Year Tax (Form ) (Schedule of Adjustme",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-8978",
+  "notFor": [
+   "Form 8978"
+  ]
+ },
+ "form-8990": {
+  "id": "form-8990",
+  "label": "Form 8990",
+  "title": "Form (Rev. December ) Limitation on Business Interest Expense Under Section 163(",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-8992": {
+  "id": "form-8992",
+  "label": "Form 8992",
+  "title": "Form (Rev. December ) U.S. Shareholder Calculation of Global Intangible Low-Taxe",
+  "pageCount": 1,
+  "source": "mef",
+  "notFor": [
+   "Schedule A (Form 8992)"
+  ]
+ },
+ "form-8992-schedule-a": {
+  "id": "form-8992-schedule-a",
+  "label": "Schedule A (Form 8992)",
+  "title": "SCHEDULE A Schedule of Controlled Foreign Corporation (CFC) Information To Compu",
+  "pageCount": 2,
+  "source": "mef",
+  "parent": "form-8992",
+  "notFor": [
+   "Form 8992"
+  ]
+ },
+ "form-8993": {
+  "id": "form-8993",
+  "label": "Form 8993",
+  "title": "Form (Rev. December ) Section 250 Deduction for Foreign-Derived Intangible Incom",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8994": {
+  "id": "form-8994",
+  "label": "Form 8994",
+  "title": "Form (Rev. January ) Employer Credit for Paid Family and Medical Leave Attachmen",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-8995": {
+  "id": "form-8995",
+  "label": "Form 8995",
+  "title": "Form Qualified Business Income Deduction Simplified Computation Attachment for i",
+  "pageCount": 1,
+  "source": "mef",
+  "notFor": [
+   "Form 8995-A",
+   "Schedule A (Form 8995-A)",
+   "Schedule B (Form 8995-A)",
+   "Schedule C (Form 8995-A)",
+   "Schedule D (Form 8995-A)"
+  ]
+ },
+ "form-8995-a": {
+  "id": "form-8995-a",
+  "label": "Form 8995-A",
+  "title": "-A Qualified Business Income Deduction Form Attachment for instructions and the ",
+  "pageCount": 2,
+  "source": "mef",
+  "notFor": [
+   "Form 8995",
+   "Schedule A (Form 8995-A)",
+   "Schedule B (Form 8995-A)",
+   "Schedule C (Form 8995-A)",
+   "Schedule D (Form 8995-A)"
+  ]
+ },
+ "form-8995-a-schedule-a": {
+  "id": "form-8995-a-schedule-a",
+  "label": "Schedule A (Form 8995-A)",
+  "title": "SCHEDULE A Specified Service Trades or Businesses (Form -A) Attachment for instr",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-8995-a",
+  "notFor": [
+   "Form 8995",
+   "Form 8995-A",
+   "Schedule B (Form 8995-A)",
+   "Schedule C (Form 8995-A)",
+   "Schedule D (Form 8995-A)"
+  ]
+ },
+ "form-8995-a-schedule-b": {
+  "id": "form-8995-a-schedule-b",
+  "label": "Schedule B (Form 8995-A)",
+  "title": "SCHEDULE B Aggregation of Business Operations (Form -A) (Rev. December ) Attachm",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-8995-a",
+  "notFor": [
+   "Form 8995",
+   "Form 8995-A",
+   "Schedule A (Form 8995-A)",
+   "Schedule C (Form 8995-A)",
+   "Schedule D (Form 8995-A)"
+  ]
+ },
+ "form-8995-a-schedule-c": {
+  "id": "form-8995-a-schedule-c",
+  "label": "Schedule C (Form 8995-A)",
+  "title": "SCHEDULE C Loss Netting and Carryforward (Form -A) (Rev. December ) Attachment f",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-8995-a",
+  "notFor": [
+   "Form 8995",
+   "Form 8995-A",
+   "Schedule A (Form 8995-A)",
+   "Schedule B (Form 8995-A)",
+   "Schedule D (Form 8995-A)"
+  ]
+ },
+ "form-8995-a-schedule-d": {
+  "id": "form-8995-a-schedule-d",
+  "label": "Schedule D (Form 8995-A)",
+  "title": "SCHEDULE D Special Rules for Patrons of (Form -A) Agricultural or Horticultural ",
+  "pageCount": 1,
+  "source": "mef",
+  "parent": "form-8995-a",
+  "notFor": [
+   "Form 8995",
+   "Form 8995-A",
+   "Schedule A (Form 8995-A)",
+   "Schedule B (Form 8995-A)",
+   "Schedule C (Form 8995-A)"
+  ]
+ },
+ "form-8997": {
+  "id": "form-8997",
+  "label": "Form 8997",
+  "title": "Form Initial and Annual Statement of Qualified Opportunity Fund (QOF) Investment",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-9000": {
+  "id": "form-9000",
+  "label": "Form 9000",
+  "title": "Form (November ) Alternative Media Preference for the latest information. Attach",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-926": {
+  "id": "form-926",
+  "label": "Form 926",
+  "title": "Form 926 (Rev. November ) Return by a U.S. Transferor of Property to a Foreign C",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-9465": {
+  "id": "form-9465",
+  "label": "Form 9465",
+  "title": "Form (Rev. September ) Installment Agreement Request for instructions and the la",
+  "pageCount": 2,
+  "source": "mef"
+ },
+ "form-965-a": {
+  "id": "form-965-a",
+  "label": "Form 965-A",
+  "title": "Form 965-A (Rev. January ) Individual Report of Net 965 Tax Liability Attachment",
+  "pageCount": 3,
+  "source": "mef"
+ },
+ "form-970": {
+  "id": "form-970",
+  "label": "Form 970",
+  "title": "Form 970 Application To Use LIFO Inventory Method (Rev. November ) Attachment fo",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-982": {
+  "id": "form-982",
+  "label": "Form 982",
+  "title": "Form 982 (Rev. March ) Reduction of Tax Attributes Due to Discharge of Indebtedn",
+  "pageCount": 1,
+  "source": "mef"
+ },
+ "form-t": {
+  "id": "form-t",
+  "label": "Form T",
+  "title": "Form T (Timber) Forest Activities Schedule (Rev. December ) Information about Fo",
+  "pageCount": 4,
+  "source": "mef"
+ },
+ "form-w-2": {
+  "id": "form-w-2",
+  "label": "Form W-2",
+  "title": "a Employee\u2019s social security number For Official Use Only b Employer identificat",
+  "pageCount": 11,
+  "source": "mef",
+  "boxes": [
+   "1 Wages, tips, other compensation",
+   "2 Federal income tax withheld",
+   "3 Social security wages",
+   "4 Social security tax withheld",
+   "5 Medicare wages and tips",
+   "6 Medicare tax withheld",
+   "7 Social security tips",
+   "8 Allocated tips"
+  ]
+ },
+ "form-w-2as": {
+  "id": "form-w-2as",
+  "label": "Form W-2AS",
+  "title": "a Employee\u2019s social security number For Official Use Only b Employer identificat",
+  "pageCount": 7,
+  "source": "mef",
+  "boxes": [
+   "1 Wages, tips, other compensation",
+   "2 Samoa income tax withheld",
+   "3 Social security wages",
+   "4 Social security tax withheld",
+   "5 Medicare wages and tips",
+   "6 Medicare tax withheld",
+   "7 Social security tips",
+   "11 Nonqualified plans"
+  ]
+ },
+ "form-w-2c": {
+  "id": "form-w-2c",
+  "label": "Form W-2C",
+  "title": "DO NOT CUT, FOLD, OR STAPLE THIS FORM For Official Use Only a Employer\u2019s name, a",
+  "pageCount": 9,
+  "source": "info",
+  "boxes": [
+   "1 Wages, tips, other compensation",
+   "2 Federal income tax withheld",
+   "3 Social security wages",
+   "4 Social security tax withheld",
+   "5 Medicare wages and tips",
+   "6 Medicare tax withheld",
+   "7 Social security tips",
+   "8 Allocated tips"
+  ]
+ },
+ "form-w-2g": {
+  "id": "form-w-2g",
+  "label": "Form W-2G",
+  "title": "PAYER\u2019S name 1 Reportable winnings 2 Date won Form W-2G $ Certain Street address",
+  "pageCount": 8,
+  "source": "mef",
+  "boxes": [
+   "1 Reportable winnings",
+   "2 Date won",
+   "3 Type of wager",
+   "4 Federal income tax withheld",
+   "5 Transaction",
+   "7 Winnings from identical wagers",
+   "8 Cashier",
+   "9 WINNER\u2019S TIN"
+  ]
+ },
+ "form-w-2gu": {
+  "id": "form-w-2gu",
+  "label": "Form W-2GU",
+  "title": "a Employee\u2019s social security number For Official Use Only b Employer identificat",
+  "pageCount": 7,
+  "source": "mef",
+  "boxes": [
+   "1 Wages, tips, other compensation",
+   "2 Guam income tax withheld",
+   "3 Social security wages",
+   "4 Social security tax withheld",
+   "5 Medicare wages and tips",
+   "6 Medicare tax withheld",
+   "7 Social security tips",
+   "11 Nonqualified plans"
+  ]
+ },
+ "form-w-2vi": {
+  "id": "form-w-2vi",
+  "label": "Form W-2VI",
+  "title": "a Employee\u2019s social security number For Official Use Only b Employer identificat",
+  "pageCount": 7,
+  "source": "mef",
+  "boxes": [
+   "1 Wages, tips, other compensation",
+   "2 VI income tax withheld",
+   "3 Social security wages",
+   "4 Social security tax withheld",
+   "5 Medicare wages and tips",
+   "6 Medicare tax withheld",
+   "7 Social security tips",
+   "11 Nonqualified plans"
+  ]
+ }
+}

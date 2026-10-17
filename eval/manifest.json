@@ -1,0 +1,1852 @@
+[
+ {
+  "id": "form-1040",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-1",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040s1.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-1-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-2",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040s2.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-3",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040s3.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-8812",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040s8.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040sa.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-b",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040sb.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-c",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040sc.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-d",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040sd.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-e",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040se.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-eic",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040sei.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-f",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040sf.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-h",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040sh.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-j",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040sj.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-r",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040sr.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-schedule-se",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040sse.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-nr",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040nr.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-nr-schedule-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040nra.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-nr-schedule-nec",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040nrn.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-nr-schedule-oi",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040nro.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-nr-schedule-p",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040nrp.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-ss",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040ss.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-1040-x",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1040x.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1041-schedule-k-1",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1041sk1.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1042-s",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1042s.pdf",
+  "pages": 7,
+  "blankPages": []
+ },
+ {
+  "id": "form-1065-schedule-d",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1065sd.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-r",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099r.pdf",
+  "pages": 9,
+  "blankPages": []
+ },
+ {
+  "id": "form-1116",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1116.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1116-schedule-b",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1116sb.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1116-schedule-c",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1116sc.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-1118",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1118.pdf",
+  "pages": 12,
+  "blankPages": []
+ },
+ {
+  "id": "form-1118-schedule-i",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1118s1.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1118-schedule-j",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1118sj.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1118-schedule-k",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1118sk.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-1118-schedule-l",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1118sl.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-1310",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1310.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-172",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f172.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-2106",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f2106.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-2120",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f2120.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-2210",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f2210.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-2210-f",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f2210f.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-2350",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f2350.pdf",
+  "pages": 4,
+  "blankPages": [
+   2
+  ]
+ },
+ {
+  "id": "form-2439",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f2439.pdf",
+  "pages": 8,
+  "blankPages": []
+ },
+ {
+  "id": "form-2441",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f2441.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-2555",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f2555.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-3115",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f3115.pdf",
+  "pages": 8,
+  "blankPages": []
+ },
+ {
+  "id": "form-3468",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f3468.pdf",
+  "pages": 12,
+  "blankPages": []
+ },
+ {
+  "id": "form-3800",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f3800.pdf",
+  "pages": 9,
+  "blankPages": []
+ },
+ {
+  "id": "form-3903",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f3903.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-4136",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4136.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-4137",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4137.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-4255",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4255.pdf",
+  "pages": 5,
+  "blankPages": []
+ },
+ {
+  "id": "form-4547",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4547.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-4562",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4562.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-4563",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4563.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-461",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f461.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-4684",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4684.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-4797",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4797.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-4835",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4835.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-4868",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4868.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-4952",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4952.pdf",
+  "pages": 4,
+  "blankPages": [
+   2
+  ]
+ },
+ {
+  "id": "form-4970",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4970.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-4972",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f4972.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-5074",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5074.pdf",
+  "pages": 4,
+  "blankPages": [
+   2
+  ]
+ },
+ {
+  "id": "form-5329",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5329.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-5471",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5471.pdf",
+  "pages": 6,
+  "blankPages": []
+ },
+ {
+  "id": "form-5471-schedule-e",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5471se.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-5471-schedule-g-1",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5471sg1.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-5471-schedule-h",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5471sh.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-5471-schedule-i-1",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5471si1.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-5471-schedule-j",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5471sj.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-5471-schedule-m",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5471sm.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-5471-schedule-o",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5471so.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-5471-schedule-p",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5471sp.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-5471-schedule-q",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5471sq.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-5471-schedule-r",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5471sr.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-56",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f56.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-5695",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5695.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-5713",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5713.pdf",
+  "pages": 6,
+  "blankPages": [
+   5,
+   6
+  ]
+ },
+ {
+  "id": "form-5713-schedule-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5713sa.pdf",
+  "pages": 3,
+  "blankPages": [
+   3
+  ]
+ },
+ {
+  "id": "form-5713-schedule-b",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5713sb.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-5713-schedule-c",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5713sc.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-5884",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5884.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-6198",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f6198.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-6251",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f6251.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-6252",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f6252.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-6478",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f6478.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-6765",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f6765.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-6781",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f6781.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-7203",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f7203.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-7204",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f7204.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-7205",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f7205.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-7206",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f7206.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-7207",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f7207.pdf",
+  "pages": 5,
+  "blankPages": []
+ },
+ {
+  "id": "form-7210",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f7210.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-7211",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f7211.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-7213",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f7213.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-7217",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f7217.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-7218",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f7218.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8082",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8082.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8275",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8275.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8275-r",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8275r.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8283",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8283.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8288-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8288a.pdf",
+  "pages": 5,
+  "blankPages": []
+ },
+ {
+  "id": "form-8332",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8332.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8379",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8379.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8396",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8396.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8582",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8582.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-8582-cr",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8582cr.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8586",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8586.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8594",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8594.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8606",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8606.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8609-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8609a.pdf",
+  "pages": 2,
+  "blankPages": [
+   2
+  ]
+ },
+ {
+  "id": "form-8611",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8611.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-8615",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8615.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8621",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8621.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-8689",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8689.pdf",
+  "pages": 4,
+  "blankPages": [
+   2
+  ]
+ },
+ {
+  "id": "form-8697",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8697.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8801",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8801.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-8805",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8805.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-8814",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8814.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8815",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8815.pdf",
+  "pages": 4,
+  "blankPages": [
+   2
+  ]
+ },
+ {
+  "id": "form-8820",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8820.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-8824",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8824.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8825",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8825.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8826",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8826.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8828",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8828.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8829",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8829.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8833",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8833.pdf",
+  "pages": 5,
+  "blankPages": [
+   2
+  ]
+ },
+ {
+  "id": "form-8834",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8834.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8835",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8835.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-8838",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8838.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8838-p",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8838p.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-8839",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8839.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8840",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8840.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-8843",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8843.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-8844",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8844.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8845",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-prior/f8845--2022.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8846",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8846.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8853",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8853.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8854",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8854.pdf",
+  "pages": 5,
+  "blankPages": []
+ },
+ {
+  "id": "form-8858",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8858.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-8858-schedule-m",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8858sm.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8859",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8859.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8862",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8862.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-8863",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8863.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8864",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8864.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8865",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8865.pdf",
+  "pages": 6,
+  "blankPages": []
+ },
+ {
+  "id": "form-8865-schedule-g",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8865sg.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8865-schedule-h",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8865sh.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8865-schedule-k-1",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8865sk1.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8865-schedule-k-2",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8865sk2.pdf",
+  "pages": 14,
+  "blankPages": []
+ },
+ {
+  "id": "form-8865-schedule-k-3",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8865sk3.pdf",
+  "pages": 15,
+  "blankPages": []
+ },
+ {
+  "id": "form-8865-schedule-o",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8865so.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8865-schedule-p",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8865sp.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8866",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8866.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8867",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8867.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8873",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8873.pdf",
+  "pages": 3,
+  "blankPages": [
+   3
+  ]
+ },
+ {
+  "id": "form-8874",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8874.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-8880",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8880.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8881",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8881.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8882",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8882.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8883",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8883.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8886",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8886.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8888",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8888.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-8889",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8889.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8896",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8896.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8900",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8900.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8906",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8906.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8908",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8908.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-8911",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8911.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8911-schedule-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8911sa.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8912",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8912.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-8915-f",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8915f.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-8917",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8917.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-8919",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8919.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8925",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8925.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8932",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8932.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8933",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8933.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-8933-schedule-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8933sa.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8933-schedule-b",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8933sb.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8933-schedule-c",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8933sc.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8933-schedule-d",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8933sd.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-8933-schedule-e",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8933se.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8933-schedule-f",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8933sf.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-8936",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8936.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8936-schedule-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8936sa.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-8938",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8938.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8941",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8941.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8949",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8949.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8958",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8958.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-8959",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8959.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8960",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8960.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8962",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8962.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8978",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8978.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8978-schedule-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8978sa.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8990",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8990.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-8992",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8992.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8992-schedule-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8992sa.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8993",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8993.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8994",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8994.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8995",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8995.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8995-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8995a.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-8995-a-schedule-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8995aa.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8995-a-schedule-b",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8995ab.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8995-a-schedule-c",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8995ac.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8995-a-schedule-d",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8995ad.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-8997",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f8997.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-9000",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f9000.pdf",
+  "pages": 4,
+  "blankPages": [
+   2
+  ]
+ },
+ {
+  "id": "form-9465",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f9465.pdf",
+  "pages": 2,
+  "blankPages": []
+ },
+ {
+  "id": "form-926",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f926.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-965-a",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f965a.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-970",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f970.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-982",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/f982.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-t",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/ft.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-w-2",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/fw2.pdf",
+  "pages": 11,
+  "blankPages": []
+ },
+ {
+  "id": "form-w-2as",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/fw2as.pdf",
+  "pages": 7,
+  "blankPages": []
+ },
+ {
+  "id": "form-w-2g",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/fw2g.pdf",
+  "pages": 8,
+  "blankPages": []
+ },
+ {
+  "id": "form-w-2gu",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/fw2gu.pdf",
+  "pages": 7,
+  "blankPages": []
+ },
+ {
+  "id": "form-w-2vi",
+  "source": "mef",
+  "url": "https://www.irs.gov/pub/irs-pdf/fw2vi.pdf",
+  "pages": 7,
+  "blankPages": []
+ },
+ {
+  "id": "form-1097-btc",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1097btc.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-1098",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1098.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-1098-c",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1098c.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-1098-e",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1098e.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-1098-f",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1098f.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-1098-q",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1098q.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-1098-t",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1098t.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-a",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099a.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-b",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099b--2025.pdf",
+  "pages": 7,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-c",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099c.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-cap",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099cap.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-da",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099da.pdf",
+  "pages": 6,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-div",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099div.pdf",
+  "pages": 6,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-g",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099g.pdf",
+  "pages": 6,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-h",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099h.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-int",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099int.pdf",
+  "pages": 7,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-k",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099k.pdf",
+  "pages": 6,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-ls",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099ls.pdf",
+  "pages": 6,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-ltc",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099ltc.pdf",
+  "pages": 5,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-misc",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099msc.pdf",
+  "pages": 6,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-nec",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099nec.pdf",
+  "pages": 6,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-oid",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099oid.pdf",
+  "pages": 7,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-patr",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099ptr.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-q",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099q.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-s",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099s.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-sa",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099sa.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-1099-sb",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1099sb.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-3921",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f3921.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-3922",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f3922.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-5498",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5498.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-5498-esa",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5498e.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-5498-qa",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5498qa.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-5498-sa",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f5498sa.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-1095-a",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1095a.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-1095-b",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1095b.pdf",
+  "pages": 3,
+  "blankPages": []
+ },
+ {
+  "id": "form-1095-c",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1095c.pdf",
+  "pages": 4,
+  "blankPages": []
+ },
+ {
+  "id": "form-1042-s",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1042s.pdf",
+  "pages": 7,
+  "blankPages": []
+ },
+ {
+  "id": "form-w-2c",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/fw2c.pdf",
+  "pages": 9,
+  "blankPages": []
+ },
+ {
+  "id": "form-1065-schedule-k-1",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1065sk1.pdf",
+  "pages": 1,
+  "blankPages": []
+ },
+ {
+  "id": "form-1120-s-schedule-k-1",
+  "source": "info",
+  "url": "https://www.irs.gov/pub/irs-pdf/f1120ssk.pdf",
+  "pages": 1,
+  "blankPages": []
+ }
+]
