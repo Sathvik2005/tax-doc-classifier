@@ -282,7 +282,58 @@ safety on top:
 
 ---
 
-## 8. Production checklist
+## 8. Lessons from production: the silent-failure blind spot
+
+A concrete failure mode, reproduced in this repo's own web UI (`ui/server`),
+worth naming explicitly because it's structural to Jev's design, not a bug in
+any one integration — anyone wiring preprocessing in front of Jev will hit the
+same blind spot eventually.
+
+**What happened**: a scanned PDF page with no embedded text layer was fed
+through a classify pipeline whose OCR step wasn't actually working (the OCR
+binary wasn't installed/available). The page's `state` ended up empty.
+Jev was asked "what form is this page, what kind of page is it" against that
+empty state, and answered **`blank`, `kind: blank`, 100% confidence** —
+correctly, for the input it was actually given.
+
+**Why this is a structural blind spot, not a one-off bug**: Jev is a stateless
+text classifier (§1). It has no model of the document, no way to know a
+preprocessing step upstream failed, and no mechanism to say "this input looks
+degenerate, I'm not confident in the premise." A `formConfidence: 1.0` on an
+empty/garbage `state` is indistinguishable, from Jev's response alone, from a
+`formConfidence: 1.0` on a clean, genuinely blank page. **The gate (§3.2) will
+happily auto-accept both**, because gate logic built on "trust the confidence
+number" has no way to separate "confidently correct" from "confidently fed
+nothing."
+
+**The fix is entirely on the caller's side**, and it's a pattern, not a
+one-line check: track *why* an input ended up empty, not just *that* it did.
+Concretely, this repo's preprocessing now distinguishes three cases instead of
+collapsing them into one "blank" bucket:
+
+1. Text extraction found content → normal path, no issue.
+2. Text extraction found nothing, OCR (or equivalent recovery step) ran and
+   *also* found nothing → treat as genuinely blank; this is a real signal.
+3. Text extraction found nothing, and the recovery step **could not run at
+   all** (missing dependency, render failure, OCR engine threw) → this is not
+   a "blank" result, it's a **missing** result. Force `gated: false`
+   unconditionally, regardless of what the model reports, so it always routes
+   to review instead of being silently auto-accepted.
+
+The general version of this lesson: **never let a confidence score from Jev
+(or any confidence-scoring decision model) stand in for input-quality
+validation.** Validate that your `state` actually contains what you think it
+contains *before* the call, and propagate "my preprocessing degraded" as its
+own first-class signal that forces review — don't let it get laundered into
+"the model was confident, so a human doesn't need to look at this one."
+
+If you build this validation, the one thing worth hardening beyond what this
+repo does today: add an automated regression check for it (this repo currently
+only exercises the OCR-uncertain path manually — see `EVALUATION.md`'s "Known
+limitations"). A silent-failure path that's never tested is a silent-failure
+path that silently breaks again when someone refactors the preprocessing step.
+
+## 9. Production checklist
 
 - [ ] Jev calls run behind a bounded worker pool sized to the vendor's real rate limit
 - [ ] Retries only on transient failures; 402 and other terminal errors fail fast and

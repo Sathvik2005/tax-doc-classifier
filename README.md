@@ -125,35 +125,36 @@ TYPESAFE_API_KEY=… pnpm eval --corpus=blank
 TYPESAFE_API_KEY=… pnpm eval --corpus=bench --dir=/path/to/tax_calc_bench/ty25/test_data
 ```
 
-Each run prints the strict score, lists every strict error with its confidence and runner-up, and writes the full per-page results to `eval/results/`.
-
-The bench corpus is [TaxCalcBench](https://github.com/column-tax/tax-calc-bench) and is not redistributed here.
+Each run prints the strict score, lists every strict error with its confidence and runner-up, and writes the full per-page results to `eval/results/`. See **[EVALUATION.md](EVALUATION.md)** for the full test strategy, acceptance criteria, and how to read a regression.
 
 ## Web UI
 
-`ui/` is a small React + Vite frontend with a Node backend that wraps `classifyPage`
-and `jevBackend` — upload a tax PDF, get every page classified with its form, kind,
-confidence bar, and a gated/needs-review badge.
-
-Requires the same setup as above (Node 20+, poppler's `pdftotext` **and** `pdfinfo`
-on PATH, `TYPESAFE_API_KEY`), plus:
+`ui/` is a React + Vite frontend with a Node backend that wraps `classifyPage` and
+`jevBackend` — upload a tax PDF (including large, scanned documents, via bundled
+OCR) and watch every page get classified live as it streams in, with its form,
+page kind, confidence, and a gated/needs-review status.
 
 ```
 cd ui
 pnpm install
-set -a && source ../.env && set +a   # load TYPESAFE_API_KEY (or export it yourself)
-pnpm dev                             # runs the Vite dev server + classify API together
+pnpm dev
 ```
 
-Open **http://localhost:5173**, upload a PDF, click Classify. The frontend (`:5173`)
-proxies `/api/classify` to the backend (`:8787`), which writes the upload to a temp
-file, runs it page-by-page through the same pipeline `eval/run.ts` uses, and returns
-per-page results — nothing is persisted after the request completes.
+Open **http://localhost:5173** (or whatever port Vite reports), upload a PDF, click
+Classify. See **[OPERATIONS.md](OPERATIONS.md)** for the full run/configuration
+details, environment variables, and troubleshooting.
 
-See `docs/` for the design docs behind this project: the Jev API contract
-(`JEV-CONTEXT.md`), the spec-driven build methodology (`REBUILD-METHODOLOGY.md`), and
-production/system-design guidance for running this at scale
-(`JEV-PRODUCTION-SYSTEM-DESIGN.md`).
+## Documentation
+
+| Doc | Covers |
+|---|---|
+| **[ARCHITECTURE.md](ARCHITECTURE.md)** | System design, component responsibilities, data flow, key design decisions |
+| **[DEVELOPMENT.md](DEVELOPMENT.md)** | Local setup, coding conventions, testing, debugging |
+| **[EVALUATION.md](EVALUATION.md)** | Test strategy, strict-score methodology, benchmark/regression procedure |
+| **[OPERATIONS.md](OPERATIONS.md)** | Running the web UI, configuration, logging, troubleshooting |
+| `docs/JEV-CONTEXT.md` | The Jev/TypeSafe API contract, generalized for reuse elsewhere |
+| `docs/REBUILD-METHODOLOGY.md` | How this project was built, as a repeatable spec-driven method |
+| `docs/JEV-PRODUCTION-SYSTEM-DESIGN.md` | Production hardening: concurrency, retries, cost governance, observability, compliance |
 
 ## Plugging in another model
 
@@ -161,7 +162,7 @@ production/system-design guidance for running this at scale
 
 ## Limits
 
-- Text only. Scanned pages need OCR first; a page with no text layer is reported as `blank`.
+- Text only. The library itself (`classifyPage`) takes lines of text and does no OCR — a page with no text layer is reported as `blank`. The web UI adds an OCR fallback (bundled `tesseract.js`) for scanned pages; see [ARCHITECTURE.md](ARCHITECTURE.md#ocr-and-the-limits-of-a-text-only-classifier) for what that does and doesn't fix.
 - Federal forms only. State forms are detected by `kind` but not identified.
 - English only.
 - Requires `pdftotext` and `pdfinfo` (poppler) on the path for the PDF helpers; `classifyPage` itself takes lines of text and needs neither.
