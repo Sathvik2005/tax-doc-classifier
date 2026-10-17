@@ -4,15 +4,16 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "concurrently -k -n web,server \"vite\" \"tsx watch server/index.ts\"",
+    "dev": "concurrently -k -n web,server \"vite\" \"tsx watch --env-file=../.env server/index.ts\"",
     "dev:web": "vite",
-    "dev:server": "tsx watch server/index.ts",
+    "dev:server": "tsx watch --env-file=../.env server/index.ts",
     "build": "vite build",
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "tesseract.js": "^7.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.12",

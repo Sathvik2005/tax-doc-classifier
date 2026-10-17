@@ -5,6 +5,7 @@ import { tmpdir } from 'node:os'
 import { join } from 'node:path'
 import { promisify } from 'node:util'
 import { fileURLToPath } from 'node:url'
+import { createWorker, type Worker } from 'tesseract.js'
 import {
   classifyPage,
   firstListCriteria,
@@ -35,15 +36,12 @@ const backend = jevBackend()
 // Pages with no embedded text layer (scanned PDFs, "print to PDF" output that
 // rasterized the page into images) return nothing from pdftotext. Rather than
 // silently reporting those as blank, render the page and OCR it.
-let ocrAvailable: boolean | undefined
-async function tesseractAvailable(): Promise<boolean> {
-  if (ocrAvailable === undefined) {
-    ocrAvailable = await run('tesseract', ['--version'])
-      .then(() => true)
-      .catch(() => false)
-    if (!ocrAvailable) console.warn('tesseract not found on PATH — pages with no text layer will stay "blank"')
-  }
-  return ocrAvailable
+// Uses tesseract.js (WASM, bundled) instead of a system `tesseract` binary —
+// nothing to install on the host.
+let ocrWorkerPromise: Promise<Worker> | undefined
+function ocrWorker(): Promise<Worker> {
+  if (!ocrWorkerPromise) ocrWorkerPromise = createWorker('eng')
+  return ocrWorkerPromise
 }
 
 async function renderPagePng(file: string, page: number, workDir: string): Promise<string | undefined> {
@@ -54,9 +52,14 @@ async function renderPagePng(file: string, page: number, workDir: string): Promi
 }
 
 async function ocrImage(imagePath: string): Promise<string[]> {
-  if (!(await tesseractAvailable())) return []
-  const { stdout } = await run('tesseract', [imagePath, 'stdout'])
-  return linesOf(stdout)
+  try {
+    const worker = await ocrWorker()
+    const { data } = await worker.recognize(imagePath)
+    return linesOf(data.text)
+  } catch (err) {
+    console.warn('OCR failed:', err instanceof Error ? err.message : err)
+    return []
+  }
 }
 
 async function toDataUrl(imagePath: string | undefined): Promise<string | undefined> {

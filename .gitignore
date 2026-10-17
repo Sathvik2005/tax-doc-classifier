@@ -4,3 +4,4 @@ eval/corpus
 eval/results
 .env
 .env.*
+ui/*.traineddata
