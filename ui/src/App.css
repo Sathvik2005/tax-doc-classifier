@@ -308,6 +308,12 @@ th {
   margin-left: 0.4rem;
 }
 
+.badge.ocr-uncertain {
+  background: #3a2414;
+  color: #fb923c;
+  margin-left: 0.4rem;
+}
+
 .confidence-bar {
   display: inline-block;
   width: 60px;

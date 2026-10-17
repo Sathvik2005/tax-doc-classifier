@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import type { PageResult } from '../types'
 
-type ApiResponse = { pageCount: number; results: PageResult[] } | { error: string }
+type UploadResponse = { jobId: string; pageCount: number } | { error: string }
 
 function topProbs(probs: Record<string, number> | undefined, n = 5): [string, number][] {
   if (!probs) return []
@@ -10,7 +10,7 @@ function topProbs(probs: Record<string, number> | undefined, n = 5): [string, nu
     .slice(0, n)
 }
 
-function Inspector({ result, onClose }: { result: PageResult; onClose: () => void }) {
+function Inspector({ jobId, result, onClose }: { jobId: string; result: PageResult; onClose: () => void }) {
   return (
     <div className="inspector">
       <div className="inspector-header">
@@ -18,12 +18,16 @@ function Inspector({ result, onClose }: { result: PageResult; onClose: () => voi
         <button className="ghost" onClick={onClose}>close</button>
       </div>
 
-      {result.preview && (
-        <img className="inspector-preview" src={result.preview} alt={`page ${result.page} preview`} />
-      )}
+      <img
+        className="inspector-preview"
+        src={`/api/classify/${jobId}/preview/${result.page}`}
+        alt={`page ${result.page} preview`}
+      />
 
       {result.skipped ? (
-        <p className="inspector-note">Skipped — {result.reason}</p>
+        <p className="inspector-note">
+          {result.reason === 'error' ? `Error — ${result.error}` : `Skipped — ${result.reason}`}
+        </p>
       ) : (
         <>
           <div className="inspector-row">
@@ -36,7 +40,10 @@ function Inspector({ result, onClose }: { result: PageResult; onClose: () => voi
           </div>
           <div className="inspector-row">
             <span className="label">Gate</span>
-            <span>{result.gated ? 'passed (confident)' : 'needs review'}</span>
+            <span>
+              {result.gated ? 'passed (confident)' : 'needs review'}
+              {result.ocrUncertain && ' — OCR inconclusive, forced to review'}
+            </span>
           </div>
           <div className="inspector-row">
             <span className="label">Calls / tokens</span>
@@ -85,8 +92,9 @@ export default function ClassifyPage() {
   const [file, setFile] = useState<File | null>(null)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
+  const [jobId, setJobId] = useState<string | null>(null)
   const [results, setResults] = useState<PageResult[] | null>(null)
-  const [selected, setSelected] = useState<PageResult | null>(null)
+  const [selected, setSelected] = useState<number | null>(null)
 
   async function classify() {
     if (!file) return
@@ -94,11 +102,45 @@ export default function ClassifyPage() {
     setError(null)
     setResults(null)
     setSelected(null)
+    setJobId(null)
     try {
-      const res = await fetch('/api/classify', { method: 'POST', body: file })
-      const data = (await res.json()) as ApiResponse
-      if (!res.ok || 'error' in data) throw new Error('error' in data ? data.error : `HTTP ${res.status}`)
-      setResults(data.results)
+      const uploadRes = await fetch('/api/classify', { method: 'POST', body: file })
+      const uploaded = (await uploadRes.json()) as UploadResponse
+      if (!uploadRes.ok || 'error' in uploaded) throw new Error('error' in uploaded ? uploaded.error : `HTTP ${uploadRes.status}`)
+
+      setJobId(uploaded.jobId)
+      setResults(Array.from({ length: uploaded.pageCount }, (_, i) => ({ page: i + 1, pending: true, skipped: false })))
+
+      const streamRes = await fetch(`/api/classify/${uploaded.jobId}/stream`)
+      if (!streamRes.ok || !streamRes.body) throw new Error(`stream failed: HTTP ${streamRes.status}`)
+
+      const reader = streamRes.body.getReader()
+      const decoder = new TextDecoder()
+      let buf = ''
+      for (;;) {
+        const { value, done } = await reader.read()
+        if (done) break
+        buf += decoder.decode(value, { stream: true })
+        let newlineAt: number
+        while ((newlineAt = buf.indexOf('\n')) >= 0) {
+          const line = buf.slice(0, newlineAt)
+          buf = buf.slice(newlineAt + 1)
+          if (!line.trim()) continue
+          const obj = JSON.parse(line) as (PageResult & { done?: false }) | { done: true; budgetExceeded?: boolean; error?: string }
+          if ('done' in obj && obj.done) {
+            if (obj.budgetExceeded) setError('Run stopped: per-run cost budget exceeded (see Settings).')
+            else if (obj.error) setError(obj.error)
+            continue
+          }
+          const page = obj as PageResult
+          setResults((prev) => {
+            if (!prev) return prev
+            const next = [...prev]
+            next[page.page - 1] = page
+            return next
+          })
+        }
+      }
     } catch (err) {
       setError(err instanceof Error ? err.message : String(err))
     } finally {
@@ -106,14 +148,16 @@ export default function ClassifyPage() {
     }
   }
 
-  const totalCost = results?.reduce((n, r) => n + (r.inputTokens ?? 0), 0) ?? 0
-  const gatedCount = results?.filter((r) => r.gated).length ?? 0
+  const doneResults = results?.filter((r) => !r.pending) ?? []
+  const totalCost = doneResults.reduce((n, r) => n + (r.inputTokens ?? 0), 0)
+  const gatedCount = doneResults.filter((r) => r.gated).length
+  const selectedResult = selected !== null ? results?.[selected - 1] : undefined
 
   return (
     <div className="page-layout">
       <div className="page-main">
         <h1>Classify</h1>
-        <p className="subtitle">Upload a tax PDF, classify every page against {'{'}form, kind{'}'} via Jev.</p>
+        <p className="subtitle">Upload a tax PDF, classify every page against {'{'}form, kind{'}'} via Jev. Handles large (500+ page) documents via streamed, concurrent page processing.</p>
 
         <div className="dropzone">
           <input
@@ -131,8 +175,8 @@ export default function ClassifyPage() {
         {results && (
           <>
             <div className="summary">
-              {results.length} pages · {gatedCount} gated (confident) · {results.length - gatedCount} need review ·{' '}
-              ~{(totalCost * 0.042 / 1e6).toFixed(4)} USD
+              {doneResults.length} / {results.length} pages processed · {gatedCount} gated (confident) ·{' '}
+              {doneResults.length - gatedCount} need review · ~{(totalCost * 0.042 / 1e6).toFixed(4)} USD
             </div>
             <table>
               <thead>
@@ -146,15 +190,20 @@ export default function ClassifyPage() {
               </thead>
               <tbody>
                 {results.map((r) => (
-                  <tr key={r.page} className="clickable" onClick={() => setSelected(r)}>
+                  <tr key={r.page} className="clickable" onClick={() => setSelected(r.page)}>
                     <td>{r.page}</td>
                     <td>
-                      {r.skipped ? '—' : r.form}
+                      {r.pending ? '…' : r.skipped ? '—' : r.form}
                       {r.ocr && <span className="badge ocr" title="no text layer — classified from OCR'd text"> OCR</span>}
+                      {r.ocrUncertain && (
+                        <span className="badge ocr-uncertain" title="page couldn't be confirmed blank — OCR failed or couldn't run, forced to review">
+                          {' '}needs review
+                        </span>
+                      )}
                     </td>
-                    <td>{r.skipped ? r.reason : r.kind}</td>
+                    <td>{r.pending ? '' : r.skipped ? (r.reason === 'error' ? 'error' : r.reason) : r.kind}</td>
                     <td>
-                      {!r.skipped && r.formConfidence !== undefined && (
+                      {!r.pending && !r.skipped && r.formConfidence !== undefined && (
                         <>
                           <span className="confidence-bar">
                             <span
@@ -167,8 +216,10 @@ export default function ClassifyPage() {
                       )}
                     </td>
                     <td>
-                      {r.skipped ? (
-                        <span className="badge skipped">skipped</span>
+                      {r.pending ? (
+                        <span className="badge skipped">pending</span>
+                      ) : r.skipped ? (
+                        <span className="badge skipped">{r.reason === 'error' ? 'error' : 'skipped'}</span>
                       ) : r.gated ? (
                         <span className="badge gated">gated</span>
                       ) : (
@@ -183,7 +234,9 @@ export default function ClassifyPage() {
         )}
       </div>
 
-      {selected && <Inspector result={selected} onClose={() => setSelected(null)} />}
+      {jobId && selectedResult && !selectedResult.pending && (
+        <Inspector jobId={jobId} result={selectedResult} onClose={() => setSelected(null)} />
+      )}
     </div>
   )
 }

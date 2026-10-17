@@ -1,10 +1,12 @@
 export type PageResult = {
   page: number
+  pending?: boolean
   skipped: boolean
   reason?: string
+  error?: string
   ocr?: boolean
+  ocrUncertain?: boolean
   text?: string
-  preview?: string
   form?: string
   kind?: string
   formConfidence?: number
@@ -34,4 +36,7 @@ export type AppConfig = {
   pageImageDpi: number
   model: string
   formCount: number
+  classifyConcurrency: number
+  ocrWorkers: number
+  maxRunCostUsd: number
 }

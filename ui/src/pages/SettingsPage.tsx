@@ -26,6 +26,9 @@ export default function SettingsPage() {
           <div className="inspector-row"><span className="label">Page image DPI</span><span>{config.pageImageDpi}</span></div>
           <div className="inspector-row"><span className="label">Max upload size</span><span>{(config.maxUploadBytes / (1024 * 1024)).toFixed(0)} MB</span></div>
           <div className="inspector-row"><span className="label">Forms in catalog</span><span>{config.formCount}</span></div>
+          <div className="inspector-row"><span className="label">Classify concurrency</span><span>{config.classifyConcurrency}</span></div>
+          <div className="inspector-row"><span className="label">OCR workers</span><span>{config.ocrWorkers}</span></div>
+          <div className="inspector-row"><span className="label">Max cost per run</span><span>${config.maxRunCostUsd.toFixed(2)}</span></div>
         </div>
       )}
     </div>
